@@ -1,0 +1,1934 @@
+# แขนงวิชาของโลก — ขยายจากแหล่งวิชาการจริง
+
+แหล่งที่มา: Wikipedia - Outline of academic disciplines 
+(https://en.wikipedia.org/wiki/List_of_academic_disciplines)
+
+คณะของเรา: 46 · หมวดวิชาจาก Wikipedia ที่ใช้: 44 
+รวมสาขาย่อยจากทั่วโลก: 3656 รายการ
+
+โครงสร้าง 3 ระดับ: คณะ → สาขาย่อยของเรา → สาขาวิชาที่มีจริงในระดับโลก 
+
+## ฟิสิกส์ควอนตัม
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Physics
+- สาขาวิชาจริงทั่วโลก (113):
+  - Acoustics
+  - Quantum acoustics
+  - Agrophysics
+  - Aerodynamics
+  - Applied physics
+  - Accelerator physics
+  - Communication physics
+  - Astrophysics
+  - Atmospheric physics
+  - Atomic, molecular, and optical physics
+  - Atomic physics
+  - Biophysics
+  - Neurophysics
+  - Chemical physics
+  - Classical physics
+  - Computational physics
+  - Condensed matter physics
+  - Cryogenics
+  - Digital physics
+  - Dynamics
+  - Analytical dynamics
+  - Astrodynamics
+  - Brownian dynamics
+  - File dynamics
+  - Flight dynamics
+  - Fluid dynamics
+  - Hydrodynamics
+  - Fractional dynamics
+  - Geodynamics
+  - Molecular dynamics
+  - Newtonian dynamics
+  - Langevin dynamics
+  - Quantum chromodynamics
+  - Quantum electrodynamics
+  - Relativistic dynamics
+  - Stellar dynamics
+  - System dynamics
+  - Thermodynamics
+  - Vehicle dynamics
+  - Econophysics
+
+## ฟิสิกส์คลาสสิก
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Physics
+- สาขาวิชาจริงทั่วโลก (113):
+  - Acoustics
+  - Quantum acoustics
+  - Agrophysics
+  - Aerodynamics
+  - Applied physics
+  - Accelerator physics
+  - Communication physics
+  - Astrophysics
+  - Atmospheric physics
+  - Atomic, molecular, and optical physics
+  - Atomic physics
+  - Biophysics
+  - Neurophysics
+  - Chemical physics
+  - Classical physics
+  - Computational physics
+  - Condensed matter physics
+  - Cryogenics
+  - Digital physics
+  - Dynamics
+  - Analytical dynamics
+  - Astrodynamics
+  - Brownian dynamics
+  - File dynamics
+  - Flight dynamics
+  - Fluid dynamics
+  - Hydrodynamics
+  - Fractional dynamics
+  - Geodynamics
+  - Molecular dynamics
+  - Newtonian dynamics
+  - Langevin dynamics
+  - Quantum chromodynamics
+  - Quantum electrodynamics
+  - Relativistic dynamics
+  - Stellar dynamics
+  - System dynamics
+  - Thermodynamics
+  - Vehicle dynamics
+  - Econophysics
+
+## ดาราศาสตร์-จักรวาล
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Astronomy, Space sciences
+- สาขาวิชาจริงทั่วโลก (102):
+  - Aerospace engineering
+  - Aerospace architecture
+  - Aerospace physiology
+  - Aerospace manufacturing
+  - Astronautics
+  - Space architecture
+  - Space colonization
+  - Space commercialization
+  - Space-based economy
+  - Space industry
+  - Space manufacturing
+  - Space tourism
+  - Space environment
+  - Space logistics
+  - Space food
+  - Space medicine
+  - Neuroscience in space
+  - Space religion
+  - Space sex
+  - Space survival
+  - Space warfare
+  - Space writing
+  - Aeronautics
+  - Control engineering
+  - Human spaceflight
+  - Robotic spacecraft
+  - Space corrosion
+  - Space technology
+  - Space telescopes
+  - Space-based radar
+  - Space-based solar power
+  - Spacecraft design
+  - Spacecraft propulsion
+  - Asteroid-impact avoidance
+  - Astrobiology
+  - Astrobotany
+  - Astrochemistry
+  - Theoretical astronomy
+  - Cosmochemistry
+  - Cosmology
+
+## คณิตศาสตร์บริสุทธิ์
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: 
+- สาขาวิชาจริงทั่วโลก (0):
+
+## คณิตศาสตร์ประยุกต์
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Statistics
+- สาขาวิชาจริงทั่วโลก (26):
+  - Mathematical statistics
+  - Econometrics
+  - Actuarial science
+  - Demography
+  - Computational statistics
+  - Data mining
+  - Regression
+  - Simulation
+  - Bootstrap
+  - Design of experiments
+  - Block design and Analysis of variance
+  - Response surface methodology
+  - Sample Survey
+  - Sampling theory
+  - Statistical modelling
+  - Biostatistics
+  - Epidemiology
+  - Multivariate analysis
+  - Structural equation model
+  - Time series
+  - Reliability theory
+  - Quality control
+  - Statistical theory
+  - Decision theory
+  - Probability
+  - Survey methodology
+
+## ตรรกะและทฤษฎีข้อมูล
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Logic
+- สาขาวิชาจริงทั่วโลก (18):
+  - Mathematical logic
+  - Set theory
+  - Proof theory
+  - Model theory
+  - Recursion theory
+  - Modal logic
+  - Intuitionistic logic
+  - Philosophical logic
+  - Logical reasoning
+  - Deontic logic
+  - Doxastic logic
+  - Logic in computer science
+  - Programming language semantics
+  - Formal methods
+  - Type theory
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+
+## พันธุกรรม-ชีวโมเลกุล
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Biology
+- สาขาวิชาจริงทั่วโลก (123):
+  - Aerobiology
+  - Anatomy
+  - Comparative anatomy
+  - Human anatomy
+  - Biochemistry
+  - Bioinformatics
+  - Biophysics
+  - Biotechnology
+  - Botany
+  - Ethnobotany
+  - Phycology
+  - Cell biology
+  - Chemical biology
+  - Chronobiology
+  - Cognitive biology
+  - Computational biology
+  - Conservation biology
+  - Fisheries management
+  - Wildlife management
+  - Wildlife observation
+  - Cryobiology
+  - Developmental biology
+  - Embryology
+  - Gerontology
+  - Teratology
+  - Ecology
+  - Agroecology
+  - Ethnoecology
+  - Human ecology
+  - Landscape ecology
+  - Recreation ecology
+  - Endocrinology
+  - Epigenetics
+  - Ethnobiology
+  - Anthrozoology
+  - Evolutionary biology
+  - Evolution
+  - Systematics
+  - Taxonomy
+  - Forensic biology
+
+## เซลล์และเนื้อเยื่อ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Biology
+- สาขาวิชาจริงทั่วโลก (123):
+  - Aerobiology
+  - Anatomy
+  - Comparative anatomy
+  - Human anatomy
+  - Biochemistry
+  - Bioinformatics
+  - Biophysics
+  - Biotechnology
+  - Botany
+  - Ethnobotany
+  - Phycology
+  - Cell biology
+  - Chemical biology
+  - Chronobiology
+  - Cognitive biology
+  - Computational biology
+  - Conservation biology
+  - Fisheries management
+  - Wildlife management
+  - Wildlife observation
+  - Cryobiology
+  - Developmental biology
+  - Embryology
+  - Gerontology
+  - Teratology
+  - Ecology
+  - Agroecology
+  - Ethnoecology
+  - Human ecology
+  - Landscape ecology
+  - Recreation ecology
+  - Endocrinology
+  - Epigenetics
+  - Ethnobiology
+  - Anthrozoology
+  - Evolutionary biology
+  - Evolution
+  - Systematics
+  - Taxonomy
+  - Forensic biology
+
+## ภูมิคุ้มกัน-โรค
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Biology
+- สาขาวิชาจริงทั่วโลก (123):
+  - Aerobiology
+  - Anatomy
+  - Comparative anatomy
+  - Human anatomy
+  - Biochemistry
+  - Bioinformatics
+  - Biophysics
+  - Biotechnology
+  - Botany
+  - Ethnobotany
+  - Phycology
+  - Cell biology
+  - Chemical biology
+  - Chronobiology
+  - Cognitive biology
+  - Computational biology
+  - Conservation biology
+  - Fisheries management
+  - Wildlife management
+  - Wildlife observation
+  - Cryobiology
+  - Developmental biology
+  - Embryology
+  - Gerontology
+  - Teratology
+  - Ecology
+  - Agroecology
+  - Ethnoecology
+  - Human ecology
+  - Landscape ecology
+  - Recreation ecology
+  - Endocrinology
+  - Epigenetics
+  - Ethnobiology
+  - Anthrozoology
+  - Evolutionary biology
+  - Evolution
+  - Systematics
+  - Taxonomy
+  - Forensic biology
+
+## สมอง-ประสาทวิทยา
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: 
+- สาขาวิชาจริงทั่วโลก (0):
+
+## สรีระและเภสัช
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Medicine and health
+- สาขาวิชาจริงทั่วโลก (121):
+  - Alternative medicine
+  - Audiology
+  - Clinical laboratory sciences/Clinical pathology/Laboratory medicine
+  - Clinical biochemistry
+  - Cytogenetics
+  - Cytohematology
+  - Cytology
+  - Haemostasiology
+  - Histology
+  - Clinical immunology
+  - Clinical microbiology
+  - Molecular genetics
+  - Parasitology
+  - Clinical physiology
+  - Deathcare
+  - Funeral director
+  - Mortuary science
+  - Dentistry
+  - Dental hygiene and epidemiology
+  - Dental surgery
+  - Endodontics
+  - Implantology
+  - Oral and maxillofacial surgery
+  - Orthodontics
+  - Periodontics
+  - Prosthodontics
+  - Dermatology
+  - Emergency medicine
+  - Epidemiology
+  - Mathematical modelling of infectious diseases
+  - Geriatrics
+  - Global Health
+  - Gynaecology
+  - Health informatics/Clinical informatics
+  - Hematology
+  - Holistic medicine
+  - Infectious disease
+  - Intensive care medicine
+  - Internal medicine
+  - Cardiology
+
+## การแพทย์คลินิก
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Medicine and health, Human physical performance and recreation
+- สาขาวิชาจริงทั่วโลก (148):
+  - Biomechanics / Sports biomechanics
+  - Sports coaching
+  - Escapology
+  - Ergonomics
+  - Physical fitness
+  - Aerobics
+  - Personal trainer / Personal fitness training
+  - Game design
+  - Exercise physiology
+  - Kinesiology / Exercise physiology / Performance science
+  - Leisure studies
+  - Navigation
+  - Outdoor activity
+  - Physical activity
+  - Physical education / Pedagogy
+  - Sociology of sport
+  - Sexology
+  - Sports / exercise
+  - Sports journalism / sportscasting
+  - Sport management
+  - Athletic director
+  - Sport psychology
+  - Sports medicine
+  - Athletic training
+  - Survival skills
+  - Batoning
+  - Bushcraft
+  - Scoutcraft
+  - Woodcraft
+  - Toy and amusement design
+  - Alternative medicine
+  - Audiology
+  - Clinical laboratory sciences/Clinical pathology/Laboratory medicine
+  - Clinical biochemistry
+  - Cytogenetics
+  - Cytohematology
+  - Cytology
+  - Haemostasiology
+  - Histology
+  - Clinical immunology
+
+## จิตวิทยา
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Psychology, Family and consumer science
+- สาขาวิชาจริงทั่วโลก (70):
+  - Abnormal psychology
+  - Applied psychology
+  - Biological psychology
+  - Clinical neuropsychology
+  - Clinical psychology
+  - Cognitive psychology
+  - Community psychology
+  - Comparative psychology
+  - Conservation psychology
+  - Consumer psychology
+  - Counseling psychology
+  - Criminal psychology
+  - Cultural psychology
+  - Asian psychology
+  - Black psychology
+  - Developmental psychology
+  - Differential psychology
+  - Ecological psychology
+  - Educational psychology
+  - Environmental psychology
+  - Evolutionary psychology
+  - Experimental psychology
+  - Group psychology
+  - Family psychology
+  - Feminine psychology
+  - Forensic developmental psychology
+  - Forensic psychology
+  - Health psychology
+  - Humanistic psychology
+  - Indigenous psychology
+  - Legal psychology
+  - Mathematical psychology
+  - Media psychology
+  - Medical psychology
+  - Military psychology
+  - Moral psychology and Descriptive ethics
+  - Music psychology
+  - Neuropsychology
+  - Occupational health psychology
+  - Occupational psychology
+
+## ปัญญาประดิษฐ์
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Computer science
+- สาขาวิชาจริงทั่วโลก (106):
+  - Also a branch of electrical engineering
+  - Logic in computer science
+  - Formal methods
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
+  - Robotics
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
+
+## อัลกอริทึม-โครงสร้างข้อมูล
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Computer science
+- สาขาวิชาจริงทั่วโลก (106):
+  - Also a branch of electrical engineering
+  - Logic in computer science
+  - Formal methods
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
+  - Robotics
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
+
+## วิศวกรรมซอฟต์แวร์
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Computer science
+- สาขาวิชาจริงทั่วโลก (106):
+  - Also a branch of electrical engineering
+  - Logic in computer science
+  - Formal methods
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
+  - Robotics
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
+
+## ความมั่นคงไซเบอร์
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Computer science
+- สาขาวิชาจริงทั่วโลก (106):
+  - Also a branch of electrical engineering
+  - Logic in computer science
+  - Formal methods
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
+  - Robotics
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
+
+## ฐานข้อมูล-ข้อมูลขนาดใหญ่
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Computer science
+- สาขาวิชาจริงทั่วโลก (106):
+  - Also a branch of electrical engineering
+  - Logic in computer science
+  - Formal methods
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
+  - Robotics
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
+
+## คอมพิวเตอร์วิทัศน์-เสียง
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Computer science
+- สาขาวิชาจริงทั่วโลก (106):
+  - Also a branch of electrical engineering
+  - Logic in computer science
+  - Formal methods
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
+  - Robotics
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
+
+## หุ่นยนต์-ระบบอัตโนมัติ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Computer science
+- สาขาวิชาจริงทั่วโลก (106):
+  - Also a branch of electrical engineering
+  - Logic in computer science
+  - Formal methods
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
+  - Robotics
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
+
+## วิศวกรรมไฟฟ้า-อิเล็กทรอนิกส์
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Electrical engineering
+- สาขาวิชาจริงทั่วโลก (18):
+  - Applied physics
+  - Computer engineering
+  - Computer science
+  - Control systems engineering
+  - Control theory
+  - Electronic engineering
+  - Electronics
+  - Instrumentation engineering
+  - Engineering physics
+  - Photonics
+  - Information theory
+  - Mechatronics
+  - Power engineering
+  - Quantum computing
+  - Robotics
+  - Microbotics
+  - Semiconductors
+  - Telecommunications engineering
+
+## วิศวกรรมเครื่องกล
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Mechanical engineering, Transportation
+- สาขาวิชาจริงทั่วโลก (33):
+  - Aerospace engineering
+  - Aeronautics
+  - Astronautics
+  - Acoustical engineering
+  - Automotive engineering
+  - Biomedical engineering
+  - Biomechanical engineering
+  - Neural engineering
+  - Continuum mechanics
+  - Fluid mechanics
+  - Heat transfer
+  - Industrial engineering
+  - Manufacturing engineering
+  - Marine engineering
+  - Mass transfer
+  - Mechatronics
+  - Nanoengineering
+  - Ocean engineering
+  - Optical engineering
+  - Robotics
+  - Thermal engineering
+  - Thermodynamics
+  - Highway safety
+  - Infographics
+  - Intermodal transportation studies
+  - Logistics
+  - Marine transportation
+  - Port management
+  - Seafaring
+  - Operations research
+  - Mass transit
+  - Travel
+  - Vehicles
+
+## วิศวกรรมโยธา-โครงสร้าง
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Civil engineering
+- สาขาวิชาจริงทั่วโลก (17):
+  - Coastal engineering
+  - Earthquake engineering
+  - Ecological engineering
+  - Environmental engineering
+  - Geotechnical engineering
+  - Engineering geology
+  - Hydraulic engineering
+  - Mining engineering
+  - Transportation engineering
+  - Highway engineering
+  - Structural engineering
+  - Architectural engineering
+  - Structural mechanics
+  - Surveying
+  - Agricultural engineering
+  - Construction
+  - Infrastructure
+
+## วิศวกรรมเคมี-วัสดุ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Chemistry, Chemical engineering, Materials science
+- สาขาวิชาจริงทั่วโลก (82):
+  - Agrochemistry
+  - Analytical chemistry
+  - Astrochemistry
+  - Atmospheric chemistry
+  - Biochemistry
+  - Biogeochemistry
+  - Catalysts
+  - Chemical biology
+  - Chemical engineering
+  - Chemical physics
+  - Cheminformatics
+  - Computational chemistry
+  - Cosmochemistry
+  - Electrochemistry
+  - Environmental chemistry
+  - Femtochemistry
+  - Flavor
+  - Flow chemistry
+  - Forensic chemistry
+  - Geochemistry
+  - Green chemistry
+  - Histochemistry
+  - Hydrogenation
+  - Immunochemistry
+  - Inorganic chemistry
+  - Marine chemistry
+  - Mathematical chemistry
+  - Mechanochemistry
+  - Medicinal chemistry
+  - Molecular biology
+  - Molecular mechanics
+  - Nanotechnology
+  - Natural product chemistry
+  - Neurochemistry
+  - Nuclear chemistry
+  - Oenology
+  - Organic chemistry
+  - Organometallic chemistry
+  - Petrochemistry
+  - Pharmacology
+
+## สถาปัตยกรรม-การออกแบบ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Visual arts, Architecture and design
+- สาขาวิชาจริงทั่วโลก (52):
+  - Applied arts
+  - Craft
+  - Calligraphy
+  - Decorative arts
+  - Fashion
+  - Paper craft
+  - Textile arts
+  - Woodwork
+  - Metalwork
+  - Pottery
+  - Graphic design[1][2][3]
+  - Architecture
+  - Interior architecture
+  - Landscape architecture
+  - Landscape design
+  - Landscape planning
+  - Architectural analytics
+  - Historic preservation
+  - Interior design
+  - Technical drawing
+  - Art director
+  - Fine arts
+  - Graphic arts
+  - Drawing
+  - Painting
+  - Photography
+  - Printmaking
+  - Sculpture
+  - Digital art
+  - Animation
+  - Digital painting
+  - Mixed media
+  - Studio art
+  - Culinary Arts
+  - Food photography
+  - Food presentation
+  - Gourmet
+  - Urban planning
+  - Visual communication
+  - Graphic design
+
+## เศรษฐกิจมหภาค-การเงิน
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Economics
+- สาขาวิชาจริงทั่วโลก (61):
+  - Agricultural economics
+  - Anarchist economics
+  - Applied economics
+  - Behavioural economics
+  - Bioeconomics
+  - Business
+  - Complexity economics
+  - Computational economics
+  - Consumer economics
+  - Development economics
+  - Digital economy
+  - Ecological economics
+  - Econometrics
+  - Economic geography
+  - Economic history
+  - Economic sector
+  - Economic sociology
+  - Economic systems
+  - Economic value
+  - Education economics
+  - Energy economics
+  - Entrepreneurial economics
+  - Environmental economics
+  - Evolutionary economics
+  - Experimental economics
+  - Feminist economics
+  - Family economics
+  - Financial economics
+  - Financial econometrics
+  - Green economics
+  - Growth economics
+  - Human development theory
+  - Industrial organization
+  - Information economics
+  - Institutional economics
+  - International economics
+  - Islamic economics
+  - Knowledge economy
+  - Labor economics
+  - Health economics
+
+## การเงิน-การลงทุน
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Economics
+- สาขาวิชาจริงทั่วโลก (61):
+  - Agricultural economics
+  - Anarchist economics
+  - Applied economics
+  - Behavioural economics
+  - Bioeconomics
+  - Business
+  - Complexity economics
+  - Computational economics
+  - Consumer economics
+  - Development economics
+  - Digital economy
+  - Ecological economics
+  - Econometrics
+  - Economic geography
+  - Economic history
+  - Economic sector
+  - Economic sociology
+  - Economic systems
+  - Economic value
+  - Education economics
+  - Energy economics
+  - Entrepreneurial economics
+  - Environmental economics
+  - Evolutionary economics
+  - Experimental economics
+  - Feminist economics
+  - Family economics
+  - Financial economics
+  - Financial econometrics
+  - Green economics
+  - Growth economics
+  - Human development theory
+  - Industrial organization
+  - Information economics
+  - Institutional economics
+  - International economics
+  - Islamic economics
+  - Knowledge economy
+  - Labor economics
+  - Health economics
+
+## การบัญชี-ตรวจสอบ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Business
+- สาขาวิชาจริงทั่วโลก (30):
+  - Accounting
+  - Accounting research
+  - Accounting scholarship
+  - Business administration
+  - Business analysis
+  - Business ethics
+  - Business law
+  - Corporate governance
+  - E-Business
+  - Entrepreneurship
+  - Decision science
+  - Finance
+  - Industrial and labor relations
+  - Collective bargaining
+  - Human resources
+  - Organizational studies
+  - Labor economics
+  - Labor history
+  - Information technology
+  - Information systems
+  - Management information systems
+  - Health informatics
+  - International trade
+  - Management
+  - Marketing
+  - Operations management
+  - Purchasing
+  - Risk management and insurance
+  - Strategy or Strategic Management
+  - Systems science
+
+## การตลาด-ธุรกิจ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Business, Journalism, media studies and communication
+- สาขาวิชาจริงทั่วโลก (69):
+  - Accounting
+  - Accounting research
+  - Accounting scholarship
+  - Business administration
+  - Business analysis
+  - Business ethics
+  - Business law
+  - Corporate governance
+  - E-Business
+  - Entrepreneurship
+  - Decision science
+  - Finance
+  - Industrial and labor relations
+  - Collective bargaining
+  - Human resources
+  - Organizational studies
+  - Labor economics
+  - Labor history
+  - Information technology
+  - Information systems
+  - Management information systems
+  - Health informatics
+  - International trade
+  - Management
+  - Marketing
+  - Operations management
+  - Purchasing
+  - Risk management and insurance
+  - Strategy or Strategic Management
+  - Systems science
+  - Journalism
+  - Broadcast journalism
+  - Digital journalism
+  - Literary journalism
+  - New media journalism
+  - Print journalism
+  - Sports journalism / sportscasting
+  - Media studies
+  - Newspaper
+  - Magazine
+
+## การจัดการ-ภาวะผู้นำ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Business, Systems science
+- สาขาวิชาจริงทั่วโลก (78):
+  - Accounting
+  - Accounting research
+  - Accounting scholarship
+  - Business administration
+  - Business analysis
+  - Business ethics
+  - Business law
+  - Corporate governance
+  - E-Business
+  - Entrepreneurship
+  - Decision science
+  - Finance
+  - Industrial and labor relations
+  - Collective bargaining
+  - Human resources
+  - Organizational studies
+  - Labor economics
+  - Labor history
+  - Information technology
+  - Information systems
+  - Management information systems
+  - Health informatics
+  - International trade
+  - Management
+  - Marketing
+  - Operations management
+  - Purchasing
+  - Risk management and insurance
+  - Strategy or Strategic Management
+  - Systems science
+  - Chaos theory
+  - Complex systems
+  - Conceptual systems
+  - Control theory
+  - Affect control theory
+  - Control engineering
+  - Control systems
+  - Dynamical systems
+  - Perceptual control theory
+  - Cybernetics
+
+## กฎหมาย-สิทธิมนุษยชน
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Law
+- สาขาวิชาจริงทั่วโลก (39):
+  - Also regarded as a Social science
+  - Legal management
+  - Corporate law
+  - Mercantile law
+  - Business law
+  - Administrative law
+  - Canon law
+  - Comparative law
+  - Constitutional law
+  - Competition law
+  - Criminal law
+  - Criminal procedure
+  - Criminal justice
+  - Police science
+  - Forensic science
+  - Islamic law
+  - Jewish law
+  - Jurisprudence
+  - Civil law
+  - Admiralty law
+  - Animal law/Animal rights
+  - Common law
+  - Corporations
+  - Civil procedure
+  - Contract law
+  - Environmental law
+  - Family law
+  - Federal law
+  - International law
+  - Public international law
+  - Supranational law
+  - Labor law
+  - Paralegal studies
+  - Property law
+  - Tax law
+  - Tort law
+  - Law enforcement
+  - Procedural law
+  - Substantive law
+
+## จริยธรรม-ปรัชญา
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Philosophy, Religious studies
+- สาขาวิชาจริงทั่วโลก (78):
+  - Aesthetics (outline) / Philosophy of art
+  - Applied philosophy
+  - Philosophy of economics
+  - Philosophy of education
+  - Philosophy of engineering
+  - Philosophy of history
+  - Philosophy of language
+  - Philosophy of law
+  - Philosophy of mathematics
+  - Philosophy of music
+  - Philosophy of psychology
+  - Philosophy of religion
+  - Philosophy of physical sciences
+  - Philosophy of biology
+  - Philosophy of chemistry
+  - Philosophy of physics
+  - Philosophy of social science
+  - Philosophy of technology
+  - Systems philosophy
+  - Political philosophy and Social philosophy
+  - Anarchism
+  - Feminist philosophy
+  - Libertarianism
+  - Marxism
+  - Epistemology
+  - Justification
+  - Reasoning errors
+  - Ethics
+  - Applied ethics
+  - Animal rights
+  - Bioethics
+  - Environmental ethics
+  - Meta-ethics
+  - Moral psychology, Descriptive ethics, Value theory
+  - Normative ethics
+  - Virtue ethics
+  - Logic
+  - Mathematical logic
+  - Philosophical logic
+  - Meta-philosophy
+
+## ประวัติศาสตร์-อารยธรรม
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: History, Library and museum studies
+- สาขาวิชาจริงทั่วโลก (160):
+  - Also regarded as a Social science
+  - Prehistory
+  - Ancient history
+  - Ancient Egypt
+  - Carthage
+  - Ancient Greek history
+  - Ancient Roman history
+  - History of the Roman Republic
+  - History of the Roman Empire
+  - Ancient Chinese history
+  - Ancient Middle Eastern history
+  - Assyrian Civilization
+  - Bronze Age Civilizations
+  - Biblical history
+  - History of the Indus Valley Civilization
+  - Preclassic Maya
+  - History of Mesopotamia
+  - The Stone Age
+  - History of the Yangtze civilization
+  - History of the Yellow River civilization
+  - Modern history
+  - Asian history
+  - Chinese history
+  - Japanese history
+  - Korean history
+  - Mongolian history
+  - Indian history
+  - Indonesian history
+  - Turkish history
+  - Iranian history
+  - Vietnamese history
+  - Philippine history
+  - Australian history
+  - European history
+  - British history
+  - French history
+  - German history
+  - Dutch history
+  - Italian history
+  - Spanish history
+
+## สังคมวิทยา-มานุษยวิทยา
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Anthropology, Sociology, Social work
+- สาขาวิชาจริงทั่วโลก (260):
+  - Archaeology
+  - Biocultural anthropology
+  - Feminist archaeology
+  - Maritime archaeology
+  - Anthropological criminology
+  - Anthropological linguistics
+  - Synchronic linguistics
+  - Diachronic linguistics
+  - Ethnolinguistics
+  - Semiotic anthropology
+  - Sociolinguistics
+  - Anthrozoology
+  - Biological anthropology
+  - Gene-culture coevolution
+  - Evolutionary anthropology
+  - Forensic anthropology
+  - Human behavioral ecology
+  - Human evolution
+  - Medical anthropology
+  - Molecular anthropology
+  - Neuroanthropology
+  - Nutritional anthropology
+  - Paleoanthropology
+  - Population genetics
+  - Primatology
+  - Cultural anthropology
+  - Anthropology of development
+  - Anthropology of religion
+  - Applied anthropology
+  - Cognitive anthropology
+  - Cyborg anthropology
+  - Digital anthropology
+  - Digital culture
+  - Ecological anthropology
+  - Economic anthropology
+  - Environmental anthropology
+  - Ethnobiology
+  - Ethnobotany
+  - Ethnography
+  - Ethnohistory
+
+## รัฐศาสตร์-ความสัมพันธ์ระหว่างประเทศ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Political science, Public policy, Public administration
+- สาขาวิชาจริงทั่วโลก (84):
+  - American politics
+  - Canadian politics
+  - Civics
+  - Health politics
+  - Biopolitics
+  - Comparative politics
+  - European studies
+  - Geopolitics
+  - Indian politics
+  - International relations
+  - International organizations
+  - Nationalism studies
+  - Peace and conflict studies
+  - Policy studies
+  - Political behavior
+  - Political culture
+  - Political economy
+  - Political history
+  - Political philosophy
+  - Public administration
+  - Nonprofit administration
+  - Non-governmental organization (NGO) administration
+  - Public law
+  - Public policy
+  - Psephology
+  - Social choice theory
+  - Singapore politics
+  - Civil service
+  - Corrections
+  - Conservation biology
+  - Criminal justice
+  - Disaster research
+  - Disaster response
+  - Emergency management
+  - Emergency services
+  - Fire safety
+  - Fire ecology
+  - Governmental affairs
+  - International affairs
+  - Law enforcement
+
+## ภาษาศาสตร์-การแปล
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Linguistics, Languages and literature
+- สาขาวิชาจริงทั่วโลก (73):
+  - Linguistics listed in Social science
+  - Comics studies
+  - Classics
+  - Comparative literature
+  - Creative writing
+  - Poetry
+  - Prose
+  - Non-fiction
+  - Fiction
+  - Creative nonfiction
+  - Literary journalism
+  - Screenwriting
+  - Playwrighting
+  - English studies
+  - English literature
+  - History of literature
+  - Ancient literature
+  - Medieval literature
+  - Post-colonial literature
+  - Post-modern literature
+  - Literary genre
+  - Literary theory
+  - Critical theory
+  - Literary criticism
+  - Poetics
+  - Rhetoric
+  - Languages
+  - Business English
+  - Classical language
+  - Modern language
+  - Standard English
+  - World Englishes
+  - World literature
+  - American literature
+  - African-American literature
+  - Southern literature
+  - British literature
+  - Canadian literature
+  - Indian English literature
+  - Irish literature
+
+## วรรณกรรม-การเขียน
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Languages and literature
+- สาขาวิชาจริงทั่วโลก (44):
+  - Linguistics listed in Social science
+  - Comics studies
+  - Classics
+  - Comparative literature
+  - Creative writing
+  - Poetry
+  - Prose
+  - Non-fiction
+  - Fiction
+  - Creative nonfiction
+  - Literary journalism
+  - Screenwriting
+  - Playwrighting
+  - English studies
+  - English literature
+  - History of literature
+  - Ancient literature
+  - Medieval literature
+  - Post-colonial literature
+  - Post-modern literature
+  - Literary genre
+  - Literary theory
+  - Critical theory
+  - Literary criticism
+  - Poetics
+  - Rhetoric
+  - Languages
+  - Business English
+  - Classical language
+  - Modern language
+  - Standard English
+  - World Englishes
+  - World literature
+  - American literature
+  - African-American literature
+  - Southern literature
+  - British literature
+  - Canadian literature
+  - Indian English literature
+  - Irish literature
+
+## การสอน-การศึกษา
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Education, Educational technology
+- สาขาวิชาจริงทั่วโลก (43):
+  - Comparative education
+  - Critical pedagogy
+  - Curriculum and instruction
+  - Alternative education
+  - Early childhood education
+  - Elementary education
+  - Secondary education
+  - Higher education
+  - Mastery learning
+  - Cooperative learning
+  - Agricultural education
+  - Art education
+  - Bilingual education
+  - Chemistry education
+  - Counselor education
+  - Language education
+  - Legal education
+  - Mathematics education
+  - Medical education
+  - Military education and training
+  - Music education
+  - Nursing education
+  - Outdoor education
+  - Peace education
+  - Physical education/Sports coaching
+  - Physics education
+  - Reading education
+  - Religious education
+  - Science education
+  - Special education
+  - Sex education
+  - Sociology of education
+  - Technology education
+  - Vocational education
+  - Educational leadership
+  - Educational philosophy
+  - Educational psychology
+  - Educational technology
+  - Distance education
+  - Instructional design
+
+## ดนตรี-เสียง
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Human physical performance and recreation
+- สาขาวิชาจริงทั่วโลก (30):
+  - Biomechanics / Sports biomechanics
+  - Sports coaching
+  - Escapology
+  - Ergonomics
+  - Physical fitness
+  - Aerobics
+  - Personal trainer / Personal fitness training
+  - Game design
+  - Exercise physiology
+  - Kinesiology / Exercise physiology / Performance science
+  - Leisure studies
+  - Navigation
+  - Outdoor activity
+  - Physical activity
+  - Physical education / Pedagogy
+  - Sociology of sport
+  - Sexology
+  - Sports / exercise
+  - Sports journalism / sportscasting
+  - Sport management
+  - Athletic director
+  - Sport psychology
+  - Sports medicine
+  - Athletic training
+  - Survival skills
+  - Batoning
+  - Bushcraft
+  - Scoutcraft
+  - Woodcraft
+  - Toy and amusement design
+
+## ภาพยนตร์-สื่อ-กราฟฟิก
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Visual arts, Journalism, media studies and communication
+- สาขาวิชาจริงทั่วโลก (77):
+  - Applied arts
+  - Craft
+  - Calligraphy
+  - Decorative arts
+  - Fashion
+  - Paper craft
+  - Textile arts
+  - Woodwork
+  - Metalwork
+  - Pottery
+  - Graphic design[1][2][3]
+  - Architecture
+  - Interior architecture
+  - Landscape architecture
+  - Landscape design
+  - Landscape planning
+  - Architectural analytics
+  - Historic preservation
+  - Interior design
+  - Technical drawing
+  - Art director
+  - Fine arts
+  - Graphic arts
+  - Drawing
+  - Painting
+  - Photography
+  - Printmaking
+  - Sculpture
+  - Digital art
+  - Animation
+  - Digital painting
+  - Mixed media
+  - Studio art
+  - Culinary Arts
+  - Food photography
+  - Food presentation
+  - Gourmet
+  - Journalism
+  - Broadcast journalism
+  - Digital journalism
+
+## ภูมิอากาศ-สิ่งแวดล้อม
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Earth science, Environmental studies and forestry, Geography
+- สาขาวิชาจริงทั่วโลก (93):
+  - Physical geography
+  - Atmology
+  - Biogeography
+  - Climatology
+  - Palaeoclimatology
+  - Coastal geography
+  - Emergency management
+  - Environmental geography
+  - Geobiology
+  - Geochemistry
+  - Geographic information systems
+  - Geology
+  - Geomatics
+  - Geomorphology
+  - Geodesy
+  - Geophysics
+  - Glaciology
+  - Hydrology/Hydrography
+  - Limnology
+  - Biogeochemistry
+  - Oceanography
+  - Landscape ecology
+  - Lithology
+  - Meteorology
+  - Mineralogy
+  - Palaeogeography
+  - Palaeontology
+  - Petrology
+  - Quaternary science
+  - Soil geography
+  - Human geography
+  - Behavioural geography
+  - Cognitive geography
+  - Cultural geography
+  - Feminist geography
+  - Development geography
+  - Economic geography
+  - Health geography
+  - Historical geography
+  - Language geography
+
+## เกษตร-อาหาร
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Agriculture, Family and consumer science
+- สาขาวิชาจริงทั่วโลก (35):
+  - Aeroponics
+  - Fogponics
+  - Agroecology
+  - Agrology
+  - Agronomy
+  - Animal husbandry
+  - Beekeeping
+  - Anthroponics
+  - Agricultural economics
+  - Agricultural engineering
+  - Biological systems engineering
+  - Food engineering
+  - Aquaculture
+  - Aquaponics
+  - Enology
+  - Entomology
+  - Food science
+  - Culinary arts
+  - Forestry
+  - Horticulture
+  - Hydrology
+  - Hydroponics
+  - Pedology
+  - Plant science
+  - Pomology
+  - Pest control
+  - Purification
+  - Urban agriculture
+  - Viticulture
+  - Consumer education
+  - Housing
+  - Interior design
+  - Nutrition
+  - Foodservice management
+  - Textiles
+
+## น้ำ-ทรัพยากร
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Earth science, Environmental studies and forestry
+- สาขาวิชาจริงทั่วโลก (40):
+  - Chronology
+  - Edaphology
+  - Environmental chemistry
+  - Environmental science
+  - Gemology
+  - Geochemistry
+  - Geodesy
+  - Physical geography
+  - Atmospheric science / Meteorology
+  - Biogeography / Phytogeography
+  - Climatology / Paleoclimatology / Palaeogeography
+  - Coastal geography / Oceanography
+  - Edaphology / Pedology or Soil science
+  - Geobiology
+  - Geostatistics
+  - Glaciology
+  - Hydrology (outline)/ Limnology / Hydrogeology
+  - Landscape ecology
+  - Quaternary science
+  - Geophysics
+  - Paleontology
+  - Paleobiology
+  - Paleoecology
+  - Forensic geology
+  - Planetary science
+  - Seismology
+  - Ecology
+  - Recreation ecology
+  - Environmental management
+  - Coastal management
+  - Fisheries management
+  - Land management
+  - Natural resource management
+  - Waste management
+  - Wildlife management
+  - Environmental policy
+  - Wildlife observation
+  - Silviculture
+  - Sustainability studies
+  - Sustainable development
+
+## พลังงาน-นิวเคลียร์
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Systems science
+- สาขาวิชาจริงทั่วโลก (48):
+  - Chaos theory
+  - Complex systems
+  - Conceptual systems
+  - Control theory
+  - Affect control theory
+  - Control engineering
+  - Control systems
+  - Dynamical systems
+  - Perceptual control theory
+  - Cybernetics
+  - Biocybernetics
+  - Engineering cybernetics
+  - Management cybernetics
+  - Medical cybernetics
+  - New Cybernetics
+  - Second-order cybernetics
+  - Sociocybernetics
+  - Network science
+  - Operations research
+  - Systems biology
+  - Computational systems biology
+  - Synthetic biology
+  - Systems immunology
+  - Systems neuroscience
+  - System dynamics
+  - Social dynamics
+  - Systems ecology
+  - Ecosystem ecology
+  - Systems engineering
+  - Biological systems engineering
+  - Earth systems engineering and management
+  - Enterprise systems engineering
+  - Systems analysis
+  - Systems psychology
+  - Ergonomics
+  - Family systems theory
+  - Systemic therapy
+  - Systems theory
+  - Biochemical systems theory
+  - Ecological systems theory
+
+## อวกาศ-การสำรวจ
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Astronomy, Space sciences
+- สาขาวิชาจริงทั่วโลก (102):
+  - Aerospace engineering
+  - Aerospace architecture
+  - Aerospace physiology
+  - Aerospace manufacturing
+  - Astronautics
+  - Space architecture
+  - Space colonization
+  - Space commercialization
+  - Space-based economy
+  - Space industry
+  - Space manufacturing
+  - Space tourism
+  - Space environment
+  - Space logistics
+  - Space food
+  - Space medicine
+  - Neuroscience in space
+  - Space religion
+  - Space sex
+  - Space survival
+  - Space warfare
+  - Space writing
+  - Aeronautics
+  - Control engineering
+  - Human spaceflight
+  - Robotic spacecraft
+  - Space corrosion
+  - Space technology
+  - Space telescopes
+  - Space-based radar
+  - Space-based solar power
+  - Spacecraft design
+  - Spacecraft propulsion
+  - Asteroid-impact avoidance
+  - Astrobiology
+  - Astrobotany
+  - Astrochemistry
+  - Theoretical astronomy
+  - Cosmochemistry
+  - Cosmology
+
+## การเอาชีวิตรอด-ความปลอดภัย
+
+- สาขาย่อยของเรา: 4
+- หมวดวิชาโลกที่เกี่ยวข้อง: Military sciences
+- สาขาวิชาจริงทั่วโลก (127):
+  - Amphibious warfare
+  - Artillery
+  - Battlespace
+  - Air
+  - Information
+  - Land
+  - Sea
+  - Space
+  - Campaigning
+  - Military engineering
+  - Doctrine
+  - Espionage
+  - Game theory
+  - Grand strategy
+  - Containment
+  - Limited war
+  - Military science
+  - Philosophy of war
+  - Strategic studies
+  - Chess
+  - Total war
+  - War
+  - Leadership
+  - Logistics
+  - Materiel
+  - Supply chain management
+  - Military operation
+  - Military history
+  - Prehistoric
+  - Ancient
+  - Medieval
+  - Early modern
+  - Industrial
+  - Modern
+  - Fourth-generation warfare
+  - Military intelligence
+  - Military law
+  - Military medicine
+  - Naval science
+  - Naval engineering
+
+## ข้อความโปร่งใส
+ข้อมูลมาจาก Wikipedia ภายใต้ CC BY-SA เป็นแผนที่ของสิ่งที่มีอยู่จริง ไม่ได้หมายความว่า Zyphere เชี่ยวชาญทุกแขนง
