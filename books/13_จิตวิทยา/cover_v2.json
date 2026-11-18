@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "before": 316.12,
+  "after": 396.06,
+  "improvement_pct": 25.3,
+  "file": null,
+  "credit": {
+    "source": "in-house algorithm (own_image_lab)",
+    "license": "Zyphere own",
+    "query": "จิตวิทยา"
+  }
+}
