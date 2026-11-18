@@ -2,7 +2,7 @@
 
 ถ่าย **วิธีคิด/วิธีทำงาน/บทเรียน** ไม่ใช่น้ำหนักโมเดล
 
-จำนวนหลักการ: 8
+จำนวนหลักการ: 9
 
 ## diagnose before build
 
@@ -51,6 +51,12 @@
 - หลักการ: ทุกการพัฒนาต้องสอน Zyphere พร้อมกัน
 - ขั้นตอน: record action → feed LocalBrain/DevBrain → publish audit log
 - เหตุผล: ผู้ใช้ต้องการให้ Zyphere เก่งไปพร้อมกัน
+
+## verification before claim
+
+- หลักการ: t
+- ขั้นตอน: a
+- เหตุผล: b
 
 ## ข้อจำกัด
 
