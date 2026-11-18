@@ -1,0 +1,1665 @@
+{
+  "rows": [
+    {
+      "faculty": "ฟิสิกส์ควอนตัม",
+      "sub_branch": "กลศาสตร์ควอนตัมพื้นฐาน",
+      "concepts": [
+        "wave function",
+        "operators",
+        "superposition"
+      ]
+    },
+    {
+      "faculty": "ฟิสิกส์ควอนตัม",
+      "sub_branch": "ควอนตัมเอนแทงเกิลเมนต์",
+      "concepts": [
+        "Bell state",
+        "nonlocality",
+        "teleportation"
+      ]
+    },
+    {
+      "faculty": "ฟิสิกส์ควอนตัม",
+      "sub_branch": "ควอนตัมคอมพิวติ้ง",
+      "concepts": [
+        "qubit",
+        "quantum gate",
+        "decoherence"
+      ]
+    },
+    {
+      "faculty": "ฟิสิกส์ควอนตัม",
+      "sub_branch": "ทฤษฎีสนามควอนตัม",
+      "concepts": [
+        "field quantization",
+        "Feynman diagram",
+        "renormalization"
+      ]
+    },
+    {
+      "faculty": "ฟิสิกส์คลาสสิก",
+      "sub_branch": "กลศาสตร์นิวตัน",
+      "concepts": [
+        "motion laws",
+        "momentum",
+        "energy"
+      ]
+    },
+    {
+      "faculty": "ฟิสิกส์คลาสสิก",
+      "sub_branch": "เทอร์โมไดนามิกส์",
+      "concepts": [
+        "entropy",
+        "heat engine",
+        "laws of thermodynamics"
+      ]
+    },
+    {
+      "faculty": "ฟิสิกส์คลาสสิก",
+      "sub_branch": "แม่เหล็กไฟฟ้า",
+      "concepts": [
+        "Maxwell equations",
+        "fields",
+        "waves"
+      ]
+    },
+    {
+      "faculty": "ฟิสิกส์คลาสสิก",
+      "sub_branch": "ออปติกส์",
+      "concepts": [
+        "refraction",
+        "interference",
+        "diffraction"
+      ]
+    },
+    {
+      "faculty": "ดาราศาสตร์-จักรวาล",
+      "sub_branch": "ดาราศาสตร์สังเกตการณ์",
+      "concepts": [
+        "telescope",
+        "spectroscopy",
+        "photometry"
+      ]
+    },
+    {
+      "faculty": "ดาราศาสตร์-จักรวาล",
+      "sub_branch": "วิวัฒนาการของดาว",
+      "concepts": [
+        "stellar lifecycle",
+        "nuclear fusion",
+        "supernova"
+      ]
+    },
+    {
+      "faculty": "ดาราศาสตร์-จักรวาล",
+      "sub_branch": "จักรวาลวิทยา",
+      "concepts": [
+        "Big Bang",
+        "dark matter",
+        "expansion"
+      ]
+    },
+    {
+      "faculty": "ดาราศาสตร์-จักรวาล",
+      "sub_branch": "ระบบสุริยะ",
+      "concepts": [
+        "planets",
+        "orbits",
+        "comets"
+      ]
+    },
+    {
+      "faculty": "คณิตศาสตร์บริสุทธิ์",
+      "sub_branch": "พีชคณิตนามธรรม",
+      "concepts": [
+        "group",
+        "ring",
+        "field"
+      ]
+    },
+    {
+      "faculty": "คณิตศาสตร์บริสุทธิ์",
+      "sub_branch": "การวิเคราะห์",
+      "concepts": [
+        "limit",
+        "continuity",
+        "series"
+      ]
+    },
+    {
+      "faculty": "คณิตศาสตร์บริสุทธิ์",
+      "sub_branch": "เรขาคณิตและโทโพโลยี",
+      "concepts": [
+        "manifold",
+        "topology",
+        "curvature"
+      ]
+    },
+    {
+      "faculty": "คณิตศาสตร์บริสุทธิ์",
+      "sub_branch": "ทฤษฎีจำนวน",
+      "concepts": [
+        "prime",
+        "modular arithmetic",
+        "Diophantine"
+      ]
+    },
+    {
+      "faculty": "คณิตศาสตร์ประยุกต์",
+      "sub_branch": "สมการเชิงอนุพันธ์",
+      "concepts": [
+        "ODE",
+        "PDE",
+        "boundary conditions"
+      ]
+    },
+    {
+      "faculty": "คณิตศาสตร์ประยุกต์",
+      "sub_branch": "การเพิ่มประสิทธิภาพ",
+      "concepts": [
+        "linear programming",
+        "convexity",
+        "constraints"
+      ]
+    },
+    {
+      "faculty": "คณิตศาสตร์ประยุกต์",
+      "sub_branch": "สถิติศาสตร์",
+      "concepts": [
+        "inference",
+        "hypothesis test",
+        "regression"
+      ]
+    },
+    {
+      "faculty": "คณิตศาสตร์ประยุกต์",
+      "sub_branch": "แบบจำลองทางคณิตศาสตร์",
+      "concepts": [
+        "modeling",
+        "simulation",
+        "validation"
+      ]
+    },
+    {
+      "faculty": "ตรรกะและทฤษฎีข้อมูล",
+      "sub_branch": "ตรรกะเชิงสัญลักษณ์",
+      "concepts": [
+        "proposition",
+        "predicate",
+        "proof"
+      ]
+    },
+    {
+      "faculty": "ตรรกะและทฤษฎีข้อมูล",
+      "sub_branch": "ทฤษฎีข้อมูล",
+      "concepts": [
+        "entropy",
+        "channel capacity",
+        "coding"
+      ]
+    },
+    {
+      "faculty": "ตรรกะและทฤษฎีข้อมูล",
+      "sub_branch": "ทฤษฎีการคำนวณ",
+      "concepts": [
+        "automata",
+        "Turing machine",
+        "complexity"
+      ]
+    },
+    {
+      "faculty": "ตรรกะและทฤษฎีข้อมูล",
+      "sub_branch": "การเข้ารหัส",
+      "concepts": [
+        "symmetric",
+        "asymmetric",
+        "hash"
+      ]
+    },
+    {
+      "faculty": "พันธุกรรม-ชีวโมเลกุล",
+      "sub_branch": "พันธุกรรมคลาสสิก",
+      "concepts": [
+        "Mendel",
+        "inheritance",
+        "genotype"
+      ]
+    },
+    {
+      "faculty": "พันธุกรรม-ชีวโมเลกุล",
+      "sub_branch": "ชีววิทยาโมเลกุล",
+      "concepts": [
+        "DNA",
+        "RNA",
+        "protein synthesis"
+      ]
+    },
+    {
+      "faculty": "พันธุกรรม-ชีวโมเลกุล",
+      "sub_branch": "จีโนมิกส์",
+      "concepts": [
+        "sequencing",
+        "genome",
+        "CRISPR"
+      ]
+    },
+    {
+      "faculty": "พันธุกรรม-ชีวโมเลกุล",
+      "sub_branch": "พันธุกรรมประชากร",
+      "concepts": [
+        "allele frequency",
+        "evolution",
+        "drift"
+      ]
+    },
+    {
+      "faculty": "เซลล์และเนื้อเยื่อ",
+      "sub_branch": "โครงสร้างเซลล์",
+      "concepts": [
+        "organelle",
+        "membrane",
+        "cytoskeleton"
+      ]
+    },
+    {
+      "faculty": "เซลล์และเนื้อเยื่อ",
+      "sub_branch": "การแบ่งเซลล์",
+      "concepts": [
+        "mitosis",
+        "meiosis",
+        "cell cycle"
+      ]
+    },
+    {
+      "faculty": "เซลล์และเนื้อเยื่อ",
+      "sub_branch": "เนื้อเยื่อ",
+      "concepts": [
+        "epithelial",
+        "connective",
+        "muscle",
+        "nervous"
+      ]
+    },
+    {
+      "faculty": "เซลล์และเนื้อเยื่อ",
+      "sub_branch": "การสื่อสารเซลล์",
+      "concepts": [
+        "signaling",
+        "receptor",
+        "pathway"
+      ]
+    },
+    {
+      "faculty": "ภูมิคุ้มกัน-โรค",
+      "sub_branch": "ภูมิคุ้มกันโดยกำเนิด",
+      "concepts": [
+        "innate immunity",
+        "inflammation",
+        "barrier"
+      ]
+    },
+    {
+      "faculty": "ภูมิคุ้มกัน-โรค",
+      "sub_branch": "ภูมิคุ้มกันแบบปรับตัว",
+      "concepts": [
+        "antibody",
+        "T cell",
+        "memory"
+      ]
+    },
+    {
+      "faculty": "ภูมิคุ้มกัน-โรค",
+      "sub_branch": "วัคซีน",
+      "concepts": [
+        "immunization",
+        "antigen",
+        "herd immunity"
+      ]
+    },
+    {
+      "faculty": "ภูมิคุ้มกัน-โรค",
+      "sub_branch": "โรคติดเชื้อ",
+      "concepts": [
+        "pathogen",
+        "transmission",
+        "treatment"
+      ]
+    },
+    {
+      "faculty": "สมอง-ประสาทวิทยา",
+      "sub_branch": "โครงสร้างสมอง",
+      "concepts": [
+        "cortex",
+        "hippocampus",
+        "cerebellum"
+      ]
+    },
+    {
+      "faculty": "สมอง-ประสาทวิทยา",
+      "sub_branch": "ประสาทวิทยาศาสตร์",
+      "concepts": [
+        "neuron",
+        "synapse",
+        "plasticity"
+      ]
+    },
+    {
+      "faculty": "สมอง-ประสาทวิทยา",
+      "sub_branch": "ความจำและการเรียนรู้",
+      "concepts": [
+        "encoding",
+        "consolidation",
+        "retrieval"
+      ]
+    },
+    {
+      "faculty": "สมอง-ประสาทวิทยา",
+      "sub_branch": "ระบบประสาทอัตโนมัติ",
+      "concepts": [
+        "sympathetic",
+        "parasympathetic",
+        "homeostasis"
+      ]
+    },
+    {
+      "faculty": "สรีระและเภสัช",
+      "sub_branch": "สรีรวิทยาของระบบ",
+      "concepts": [
+        "circulatory",
+        "respiratory",
+        "digestive"
+      ]
+    },
+    {
+      "faculty": "สรีระและเภสัช",
+      "sub_branch": "เภสัชจลนศาสตร์",
+      "concepts": [
+        "absorption",
+        "distribution",
+        "metabolism"
+      ]
+    },
+    {
+      "faculty": "สรีระและเภสัช",
+      "sub_branch": "เภสัชพลศาสตร์",
+      "concepts": [
+        "receptor binding",
+        "dose response",
+        "efficacy"
+      ]
+    },
+    {
+      "faculty": "สรีระและเภสัช",
+      "sub_branch": "ความปลอดภัยยา",
+      "concepts": [
+        "side effect",
+        "interaction",
+        "contraindication"
+      ]
+    },
+    {
+      "faculty": "การแพทย์คลินิก",
+      "sub_branch": "การวินิจฉัย",
+      "concepts": [
+        "history taking",
+        "examination",
+        "investigation"
+      ]
+    },
+    {
+      "faculty": "การแพทย์คลินิก",
+      "sub_branch": "การรักษา",
+      "concepts": [
+        "treatment plan",
+        "evidence based",
+        "monitoring"
+      ]
+    },
+    {
+      "faculty": "การแพทย์คลินิก",
+      "sub_branch": "เวชปฏิบัติครอบครัว",
+      "concepts": [
+        "primary care",
+        "prevention",
+        "referral"
+      ]
+    },
+    {
+      "faculty": "การแพทย์คลินิก",
+      "sub_branch": "จริยธรรมการแพทย์",
+      "concepts": [
+        "consent",
+        "beneficence",
+        "confidentiality"
+      ]
+    },
+    {
+      "faculty": "จิตวิทยา",
+      "sub_branch": "จิตวิทยาพัฒนาการ",
+      "concepts": [
+        "child development",
+        "attachment",
+        "stages"
+      ]
+    },
+    {
+      "faculty": "จิตวิทยา",
+      "sub_branch": "จิตวิทยาสังคม",
+      "concepts": [
+        "conformity",
+        "persuasion",
+        "group dynamics"
+      ]
+    },
+    {
+      "faculty": "จิตวิทยา",
+      "sub_branch": "จิตวิทยาคลินิก",
+      "concepts": [
+        "assessment",
+        "therapy",
+        "disorder"
+      ]
+    },
+    {
+      "faculty": "จิตวิทยา",
+      "sub_branch": "จิตวิทยาการรู้คิด",
+      "concepts": [
+        "perception",
+        "attention",
+        "decision making"
+      ]
+    },
+    {
+      "faculty": "ปัญญาประดิษฐ์",
+      "sub_branch": "การเรียนรู้ของเครื่อง",
+      "concepts": [
+        "supervised",
+        "unsupervised",
+        "reinforcement"
+      ]
+    },
+    {
+      "faculty": "ปัญญาประดิษฐ์",
+      "sub_branch": "การเรียนรู้เชิงลึก",
+      "concepts": [
+        "neural network",
+        "backpropagation",
+        "CNN",
+        "transformer"
+      ]
+    },
+    {
+      "faculty": "ปัญญาประดิษฐ์",
+      "sub_branch": "ประมวลผลภาษาธรรมชาติ",
+      "concepts": [
+        "tokenization",
+        "embedding",
+        "LLM"
+      ]
+    },
+    {
+      "faculty": "ปัญญาประดิษฐ์",
+      "sub_branch": "จริยธรรม AI",
+      "concepts": [
+        "bias",
+        "transparency",
+        "accountability"
+      ]
+    },
+    {
+      "faculty": "อัลกอริทึม-โครงสร้างข้อมูล",
+      "sub_branch": "โครงสร้างข้อมูลพื้นฐาน",
+      "concepts": [
+        "array",
+        "linked list",
+        "tree",
+        "graph"
+      ]
+    },
+    {
+      "faculty": "อัลกอริทึม-โครงสร้างข้อมูล",
+      "sub_branch": "อัลกอริทึมการค้นหา",
+      "concepts": [
+        "binary search",
+        "hash table",
+        "complexity"
+      ]
+    },
+    {
+      "faculty": "อัลกอริทึม-โครงสร้างข้อมูล",
+      "sub_branch": "อัลกอริทึมกราฟ",
+      "concepts": [
+        "BFS",
+        "DFS",
+        "shortest path"
+      ]
+    },
+    {
+      "faculty": "อัลกอริทึม-โครงสร้างข้อมูล",
+      "sub_branch": "การวิเคราะห์ความซับซ้อน",
+      "concepts": [
+        "Big O",
+        "time",
+        "space"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมซอฟต์แวร์",
+      "sub_branch": "การออกแบบซอฟต์แวร์",
+      "concepts": [
+        "architecture",
+        "design pattern",
+        "SOLID"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมซอฟต์แวร์",
+      "sub_branch": "การพัฒนาแบบวนซ้ำ",
+      "concepts": [
+        "agile",
+        "scrum",
+        "continuous integration"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมซอฟต์แวร์",
+      "sub_branch": "การทดสอบ",
+      "concepts": [
+        "unit test",
+        "integration test",
+        "regression"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมซอฟต์แวร์",
+      "sub_branch": "การดูแลระบบ",
+      "concepts": [
+        "deployment",
+        "monitoring",
+        "maintenance"
+      ]
+    },
+    {
+      "faculty": "ความมั่นคงไซเบอร์",
+      "sub_branch": "การป้องกันระบบ",
+      "concepts": [
+        "firewall",
+        "hardening",
+        "least privilege"
+      ]
+    },
+    {
+      "faculty": "ความมั่นคงไซเบอร์",
+      "sub_branch": "การวิเคราะห์ช่องโหว่",
+      "concepts": [
+        "vulnerability",
+        "penetration test",
+        "CVE"
+      ]
+    },
+    {
+      "faculty": "ความมั่นคงไซเบอร์",
+      "sub_branch": "การเข้ารหัสและ Bitcoin",
+      "concepts": [
+        "TLS",
+        "key management",
+        "blockchain"
+      ]
+    },
+    {
+      "faculty": "ความมั่นคงไซเบอร์",
+      "sub_branch": "การตอบสนองเหตุการณ์",
+      "concepts": [
+        "incident response",
+        "forensics",
+        "recovery"
+      ]
+    },
+    {
+      "faculty": "ฐานข้อมูล-ข้อมูลขนาดใหญ่",
+      "sub_branch": "ออกแบบฐานข้อมูล",
+      "concepts": [
+        "normalization",
+        "ER model",
+        "indexing"
+      ]
+    },
+    {
+      "faculty": "ฐานข้อมูล-ข้อมูลขนาดใหญ่",
+      "sub_branch": "SQL และการสืบค้น",
+      "concepts": [
+        "join",
+        "query optimization",
+        "transaction"
+      ]
+    },
+    {
+      "faculty": "ฐานข้อมูล-ข้อมูลขนาดใหญ่",
+      "sub_branch": "ระบบกระจาย",
+      "concepts": [
+        "replication",
+        "sharding",
+        "consistency"
+      ]
+    },
+    {
+      "faculty": "ฐานข้อมูล-ข้อมูลขนาดใหญ่",
+      "sub_branch": "คลังข้อมูล",
+      "concepts": [
+        "ETL",
+        "data warehouse",
+        "analytics"
+      ]
+    },
+    {
+      "faculty": "คอมพิวเตอร์วิทัศน์-เสียง",
+      "sub_branch": "การประมวลผลภาพ",
+      "concepts": [
+        "filter",
+        "edge detection",
+        "segmentation"
+      ]
+    },
+    {
+      "faculty": "คอมพิวเตอร์วิทัศน์-เสียง",
+      "sub_branch": "การรู้จำภาพ",
+      "concepts": [
+        "classification",
+        "detection",
+        "CNN"
+      ]
+    },
+    {
+      "faculty": "คอมพิวเตอร์วิทัศน์-เสียง",
+      "sub_branch": "ประมวลผลเสียง",
+      "concepts": [
+        "signal",
+        "spectrogram",
+        "speech recognition"
+      ]
+    },
+    {
+      "faculty": "คอมพิวเตอร์วิทัศน์-เสียง",
+      "sub_branch": "สังเคราะห์เสียง",
+      "concepts": [
+        "TTS",
+        "prosody",
+        "voice cloning"
+      ]
+    },
+    {
+      "faculty": "หุ่นยนต์-ระบบอัตโนมัติ",
+      "sub_branch": "หุ่นยนต์เคลื่อนที่",
+      "concepts": [
+        "localization",
+        "mapping",
+        "path planning"
+      ]
+    },
+    {
+      "faculty": "หุ่นยนต์-ระบบอัตโนมัติ",
+      "sub_branch": "การควบคุม",
+      "concepts": [
+        "PID",
+        "feedback",
+        "stability"
+      ]
+    },
+    {
+      "faculty": "หุ่นยนต์-ระบบอัตโนมัติ",
+      "sub_branch": "เซ็นเซอร์และตัวขับเคลื่อน",
+      "concepts": [
+        "sensor",
+        "actuator",
+        "calibration"
+      ]
+    },
+    {
+      "faculty": "หุ่นยนต์-ระบบอัตโนมัติ",
+      "sub_branch": "ระบบอัตโนมัติในงาน",
+      "concepts": [
+        "workflow",
+        "RPA",
+        "automation"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมไฟฟ้า-อิเล็กทรอนิกส์",
+      "sub_branch": "วงจรไฟฟ้า",
+      "concepts": [
+        "Ohm law",
+        "Kirchhoff",
+        "AC/DC"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมไฟฟ้า-อิเล็กทรอนิกส์",
+      "sub_branch": "อิเล็กทรอนิกส์",
+      "concepts": [
+        "diode",
+        "transistor",
+        "amplifier"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมไฟฟ้า-อิเล็กทรอนิกส์",
+      "sub_branch": "ระบบกำลัง",
+      "concepts": [
+        "generator",
+        "transformer",
+        "power grid"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมไฟฟ้า-อิเล็กทรอนิกส์",
+      "sub_branch": "สัญญาณและระบบ",
+      "concepts": [
+        "filter",
+        "Fourier",
+        "control"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมเครื่องกล",
+      "sub_branch": "กลศาสตร์วิศวกรรม",
+      "concepts": [
+        "statics",
+        "dynamics",
+        "stress"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมเครื่องกล",
+      "sub_branch": "เทอร์โมไดนามิกส์ประยุกต์",
+      "concepts": [
+        "engine",
+        "turbine",
+        "heat transfer"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมเครื่องกล",
+      "sub_branch": "การออกแบบเครื่องจักร",
+      "concepts": [
+        "mechanism",
+        "CAD",
+        "tolerance"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมเครื่องกล",
+      "sub_branch": "การผลิต",
+      "concepts": [
+        "machining",
+        "manufacturing",
+        "quality"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมโยธา-โครงสร้าง",
+      "sub_branch": "โครงสร้าง",
+      "concepts": [
+        "beam",
+        "column",
+        "load"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมโยธา-โครงสร้าง",
+      "sub_branch": "วัสดุก่อสร้าง",
+      "concepts": [
+        "concrete",
+        "steel",
+        "composite"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมโยธา-โครงสร้าง",
+      "sub_branch": "ฐานรากและดิน",
+      "concepts": [
+        "soil mechanics",
+        "foundation",
+        "settlement"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมโยธา-โครงสร้าง",
+      "sub_branch": "การบริหารงานก่อสร้าง",
+      "concepts": [
+        "planning",
+        "safety",
+        "cost"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมเคมี-วัสดุ",
+      "sub_branch": "กระบวนการเคมี",
+      "concepts": [
+        "reactor",
+        "separation",
+        "mass balance"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมเคมี-วัสดุ",
+      "sub_branch": "เทอร์โมไดนามิกส์เคมี",
+      "concepts": [
+        "equilibrium",
+        "enthalpy",
+        "phase"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมเคมี-วัสดุ",
+      "sub_branch": "วัสดุศาสตร์",
+      "concepts": [
+        "crystal",
+        "polymer",
+        "nanomaterial"
+      ]
+    },
+    {
+      "faculty": "วิศวกรรมเคมี-วัสดุ",
+      "sub_branch": "เคมีสิ่งแวดล้อม",
+      "concepts": [
+        "pollution",
+        "treatment",
+        "catalysis"
+      ]
+    },
+    {
+      "faculty": "สถาปัตยกรรม-การออกแบบ",
+      "sub_branch": "การออกแบบอาคาร",
+      "concepts": [
+        "space planning",
+        "form",
+        "structure"
+      ]
+    },
+    {
+      "faculty": "สถาปัตยกรรม-การออกแบบ",
+      "sub_branch": "ประวัติศาสตร์สถาปัตยกรรม",
+      "concepts": [
+        "classical",
+        "modern",
+        "contemporary"
+      ]
+    },
+    {
+      "faculty": "สถาปัตยกรรม-การออกแบบ",
+      "sub_branch": "การออกแบบประสบการณ์ผู้ใช้",
+      "concepts": [
+        "user research",
+        "wireframe",
+        "prototype"
+      ]
+    },
+    {
+      "faculty": "สถาปัตยกรรม-การออกแบบ",
+      "sub_branch": "การออกแบบกราฟิก",
+      "concepts": [
+        "typography",
+        "color",
+        "layout"
+      ]
+    },
+    {
+      "faculty": "เศรษฐกิจมหภาค-การเงิน",
+      "sub_branch": "เศรษฐกิจมหภาค",
+      "concepts": [
+        "GDP",
+        "inflation",
+        "unemployment"
+      ]
+    },
+    {
+      "faculty": "เศรษฐกิจมหภาค-การเงิน",
+      "sub_branch": "นโยบายการเงิน",
+      "concepts": [
+        "interest rate",
+        "central bank",
+        "money supply"
+      ]
+    },
+    {
+      "faculty": "เศรษฐกิจมหภาค-การเงิน",
+      "sub_branch": "การค้าระหว่างประเทศ",
+      "concepts": [
+        "exchange rate",
+        "trade balance",
+        "tariff"
+      ]
+    },
+    {
+      "faculty": "เศรษฐกิจมหภาค-การเงิน",
+      "sub_branch": "วัฏจักรเศรษฐกิจ",
+      "concepts": [
+        "boom",
+        "recession",
+        "recovery"
+      ]
+    },
+    {
+      "faculty": "การเงิน-การลงทุน",
+      "sub_branch": "การวิเคราะห์การลงทุน",
+      "concepts": [
+        "fundamental",
+        "technical",
+        "valuation"
+      ]
+    },
+    {
+      "faculty": "การเงิน-การลงทุน",
+      "sub_branch": "การจัดการความเสี่ยง",
+      "concepts": [
+        "diversification",
+        "VaR",
+        "hedging"
+      ]
+    },
+    {
+      "faculty": "การเงิน-การลงทุน",
+      "sub_branch": "ตลาดทุน",
+      "concepts": [
+        "stock",
+        "bond",
+        "derivative"
+      ]
+    },
+    {
+      "faculty": "การเงิน-การลงทุน",
+      "sub_branch": "การวางแผนการเงิน",
+      "concepts": [
+        "budget",
+        "saving",
+        "retirement"
+      ]
+    },
+    {
+      "faculty": "การบัญชี-ตรวจสอบ",
+      "sub_branch": "บัญชีการเงิน",
+      "concepts": [
+        "asset",
+        "liability",
+        "equity"
+      ]
+    },
+    {
+      "faculty": "การบัญชี-ตรวจสอบ",
+      "sub_branch": "บัญชีบริหาร",
+      "concepts": [
+        "cost",
+        "budget",
+        "variance"
+      ]
+    },
+    {
+      "faculty": "การบัญชี-ตรวจสอบ",
+      "sub_branch": "การตรวจสอบ",
+      "concepts": [
+        "audit",
+        "internal control",
+        "evidence"
+      ]
+    },
+    {
+      "faculty": "การบัญชี-ตรวจสอบ",
+      "sub_branch": "ภาษีและกฎหมาย",
+      "concepts": [
+        "tax",
+        "compliance",
+        "regulation"
+      ]
+    },
+    {
+      "faculty": "การตลาด-ธุรกิจ",
+      "sub_branch": "การวิจัยตลาด",
+      "concepts": [
+        "segmentation",
+        "survey",
+        "customer insight"
+      ]
+    },
+    {
+      "faculty": "การตลาด-ธุรกิจ",
+      "sub_branch": "กลยุทธ์การตลาด",
+      "concepts": [
+        "positioning",
+        "4P",
+        "branding"
+      ]
+    },
+    {
+      "faculty": "การตลาด-ธุรกิจ",
+      "sub_branch": "การตลาดดิจิทัล",
+      "concepts": [
+        "SEO",
+        "content",
+        "social media",
+        "ads"
+      ]
+    },
+    {
+      "faculty": "การตลาด-ธุรกิจ",
+      "sub_branch": "การขายและลูกค้า",
+      "concepts": [
+        "funnel",
+        "conversion",
+        "retention"
+      ]
+    },
+    {
+      "faculty": "การจัดการ-ภาวะผู้นำ",
+      "sub_branch": "การบริหาร organização",
+      "concepts": [
+        "planning",
+        "organizing",
+        "controlling"
+      ]
+    },
+    {
+      "faculty": "การจัดการ-ภาวะผู้นำ",
+      "sub_branch": "ภาวะผู้นำ",
+      "concepts": [
+        "leadership style",
+        "motivation",
+        "influence"
+      ]
+    },
+    {
+      "faculty": "การจัดการ-ภาวะผู้นำ",
+      "sub_branch": "การจัดการทีม",
+      "concepts": [
+        "team building",
+        "communication",
+        "performance"
+      ]
+    },
+    {
+      "faculty": "การจัดการ-ภาวะผู้นำ",
+      "sub_branch": "การเปลี่ยนแปลงองค์กร",
+      "concepts": [
+        "change management",
+        "culture",
+        "resistance"
+      ]
+    },
+    {
+      "faculty": "กฎหมาย-สิทธิมนุษยชน",
+      "sub_branch": "กฎหมายแพ่ง",
+      "concepts": [
+        "contract",
+        "tort",
+        "property"
+      ]
+    },
+    {
+      "faculty": "กฎหมาย-สิทธิมนุษยชน",
+      "sub_branch": "กฎหมายอาญา",
+      "concepts": [
+        "offence",
+        "liability",
+        "punishment"
+      ]
+    },
+    {
+      "faculty": "กฎหมาย-สิทธิมนุษยชน",
+      "sub_branch": "กฎหมายแรงงาน",
+      "concepts": [
+        "employment",
+        "wage",
+        "termination"
+      ]
+    },
+    {
+      "faculty": "กฎหมาย-สิทธิมนุษยชน",
+      "sub_branch": "สิทธิมนุษยชน",
+      "concepts": [
+        "dignity",
+        "equality",
+        "freedom"
+      ]
+    },
+    {
+      "faculty": "จริยธรรม-ปรัชญา",
+      "sub_branch": "จริยธรรมประยุกต์",
+      "concepts": [
+        "utilitarianism",
+        "deontology",
+        "virtue"
+      ]
+    },
+    {
+      "faculty": "จริยธรรม-ปรัชญา",
+      "sub_branch": "ปรัชญาใจ",
+      "concepts": [
+        "consciousness",
+        "identity",
+        "free will"
+      ]
+    },
+    {
+      "faculty": "จริยธรรม-ปรัชญา",
+      "sub_branch": "ปรัชญาสังคม",
+      "concepts": [
+        "justice",
+        "rights",
+        "contract"
+      ]
+    },
+    {
+      "faculty": "จริยธรรม-ปรัชญา",
+      "sub_branch": "ตรรกะและเหตุผล",
+      "concepts": [
+        "argument",
+        "fallacy",
+        "reasoning"
+      ]
+    },
+    {
+      "faculty": "ประวัติศาสตร์-อารยธรรม",
+      "sub_branch": "ประวัติศาสตร์โลก",
+      "concepts": [
+        "ancient",
+        "medieval",
+        "modern"
+      ]
+    },
+    {
+      "faculty": "ประวัติศาสตร์-อารยธรรม",
+      "sub_branch": "อารยธรรมเอเชีย",
+      "concepts": [
+        "Indian",
+        "Chinese",
+        "Southeast Asian"
+      ]
+    },
+    {
+      "faculty": "ประวัติศาสตร์-อารยธรรม",
+      "sub_branch": "ประวัติศาสตร์ไทย",
+      "concepts": [
+        "kingdom",
+        "reform",
+        "modern state"
+      ]
+    },
+    {
+      "faculty": "ประวัติศาสตร์-อารยธรรม",
+      "sub_branch": "โบราณคดี",
+      "concepts": [
+        "artifact",
+        "excavation",
+        "dating"
+      ]
+    },
+    {
+      "faculty": "สังคมวิทยา-มานุษยวิทยา",
+      "sub_branch": "โครงสร้างสังคม",
+      "concepts": [
+        "class",
+        "institution",
+        "norm"
+      ]
+    },
+    {
+      "faculty": "สังคมวิทยา-มานุษยวิทยา",
+      "sub_branch": "การเปลี่ยนแปลงทางสังคม",
+      "concepts": [
+        "modernization",
+        "urbanization",
+        "migration"
+      ]
+    },
+    {
+      "faculty": "สังคมวิทยา-มานุษยวิทยา",
+      "sub_branch": "มานุษยวิทยาวัฒนธรรม",
+      "concepts": [
+        "ritual",
+        "belief",
+        "kinship"
+      ]
+    },
+    {
+      "faculty": "สังคมวิทยา-มานุษยวิทยา",
+      "sub_branch": "การวิจัยเชิงคุณภาพ",
+      "concepts": [
+        "ethnography",
+        "interview",
+        "observation"
+      ]
+    },
+    {
+      "faculty": "รัฐศาสตร์-ความสัมพันธ์ระหว่างประเทศ",
+      "sub_branch": "ทฤษฎีการเมือง",
+      "concepts": [
+        "democracy",
+        "sovereignty",
+        "ideology"
+      ]
+    },
+    {
+      "faculty": "รัฐศาสตร์-ความสัมพันธ์ระหว่างประเทศ",
+      "sub_branch": "การปกครอง",
+      "concepts": [
+        "constitution",
+        "separation of powers",
+        "local government"
+      ]
+    },
+    {
+      "faculty": "รัฐศาสตร์-ความสัมพันธ์ระหว่างประเทศ",
+      "sub_branch": "ความสัมพันธ์ระหว่างประเทศ",
+      "concepts": [
+        "diplomacy",
+        "treaty",
+        "international organization"
+      ]
+    },
+    {
+      "faculty": "รัฐศาสตร์-ความสัมพันธ์ระหว่างประเทศ",
+      "sub_branch": "นโยบายสาธารณะ",
+      "concepts": [
+        "policy cycle",
+        "implementation",
+        "evaluation"
+      ]
+    },
+    {
+      "faculty": "ภาษาศาสตร์-การแปล",
+      "sub_branch": "สัทศาสตร์",
+      "concepts": [
+        "phoneme",
+        "tone",
+        "articulation"
+      ]
+    },
+    {
+      "faculty": "ภาษาศาสตร์-การแปล",
+      "sub_branch": "ไวยากรณ์",
+      "concepts": [
+        "syntax",
+        "morphology",
+        "semantics"
+      ]
+    },
+    {
+      "faculty": "ภาษาศาสตร์-การแปล",
+      "sub_branch": "การแปล",
+      "concepts": [
+        "equivalence",
+        "register",
+        "localization"
+      ]
+    },
+    {
+      "faculty": "ภาษาศาสตร์-การแปล",
+      "sub_branch": "ภาษาศาสตร์ประยุกต์",
+      "concepts": [
+        "language teaching",
+        "corpus",
+        "NLP"
+      ]
+    },
+    {
+      "faculty": "วรรณกรรม-การเขียน",
+      "sub_branch": "การวิเคราะห์วรรณกรรม",
+      "concepts": [
+        "theme",
+        "narrative",
+        "character"
+      ]
+    },
+    {
+      "faculty": "วรรณกรรม-การเขียน",
+      "sub_branch": "การเขียนสร้างสรรค์",
+      "concepts": [
+        "plot",
+        "voice",
+        "imagery"
+      ]
+    },
+    {
+      "faculty": "วรรณกรรม-การเขียน",
+      "sub_branch": "การเขียนเชิงวิชาการ",
+      "concepts": [
+        "argument",
+        "structure",
+        "citation"
+      ]
+    },
+    {
+      "faculty": "วรรณกรรม-การเขียน",
+      "sub_branch": "การเรียบเรียงและพิสูจน์อักษร",
+      "concepts": [
+        "grammar",
+        "style",
+        "proofreading"
+      ]
+    },
+    {
+      "faculty": "การสอน-การศึกษา",
+      "sub_branch": "ทฤษฎีการเรียนรู้",
+      "concepts": [
+        "behaviorism",
+        "constructivism",
+        "cognitive"
+      ]
+    },
+    {
+      "faculty": "การสอน-การศึกษา",
+      "sub_branch": "ออกแบบการสอน",
+      "concepts": [
+        "objective",
+        "lesson plan",
+        "assessment"
+      ]
+    },
+    {
+      "faculty": "การสอน-การศึกษา",
+      "sub_branch": "เทคโนโลยีการศึกษา",
+      "concepts": [
+        "e-learning",
+        "LMS",
+        "interactive media"
+      ]
+    },
+    {
+      "faculty": "การสอน-การศึกษา",
+      "sub_branch": "การประเมินผู้เรียน",
+      "concepts": [
+        "formative",
+        "summative",
+        "feedback"
+      ]
+    },
+    {
+      "faculty": "ดนตรี-เสียง",
+      "sub_branch": "ทฤษฎีดนตรี",
+      "concepts": [
+        "scale",
+        "chord",
+        "rhythm"
+      ]
+    },
+    {
+      "faculty": "ดนตรี-เสียง",
+      "sub_branch": "การประพันธ์",
+      "concepts": [
+        "melody",
+        "harmony",
+        "form"
+      ]
+    },
+    {
+      "faculty": "ดนตรี-เสียง",
+      "sub_branch": "การผลิตเสียง",
+      "concepts": [
+        "recording",
+        "mixing",
+        "mastering"
+      ]
+    },
+    {
+      "faculty": "ดนตรี-เสียง",
+      "sub_branch": "ดนตรีและวัฒนธรรม",
+      "concepts": [
+        "genre",
+        "tradition",
+        "identity"
+      ]
+    },
+    {
+      "faculty": "ภาพยนตร์-สื่อ-กราฟฟิก",
+      "sub_branch": "ภาษาภาพยนตร์",
+      "concepts": [
+        "shot",
+        "mise-en-scène",
+        "editing"
+      ]
+    },
+    {
+      "faculty": "ภาพยนตร์-สื่อ-กราฟฟิก",
+      "sub_branch": "การสร้างภาพยนตร์",
+      "concepts": [
+        "pre-production",
+        "production",
+        "post-production"
+      ]
+    },
+    {
+      "faculty": "ภาพยนตร์-สื่อ-กราฟฟิก",
+      "sub_branch": "กราฟิกดีไซน์",
+      "concepts": [
+        "typography",
+        "color theory",
+        "composition"
+      ]
+    },
+    {
+      "faculty": "ภาพยนตร์-สื่อ-กราฟฟิก",
+      "sub_branch": "สื่อดิจิทัล",
+      "concepts": [
+        "animation",
+        "motion graphic",
+        "interactive"
+      ]
+    },
+    {
+      "faculty": "ภูมิอากาศ-สิ่งแวดล้อม",
+      "sub_branch": "วิทยาศาสตร์ภูมิอากาศ",
+      "concepts": [
+        "greenhouse effect",
+        "carbon cycle",
+        "modeling"
+      ]
+    },
+    {
+      "faculty": "ภูมิอากาศ-สิ่งแวดล้อม",
+      "sub_branch": "การเปลี่ยนแปลงสภาพภูมิอากาศ",
+      "concepts": [
+        "warming",
+        "impact",
+        "mitigation"
+      ]
+    },
+    {
+      "faculty": "ภูมิอากาศ-สิ่งแวดล้อม",
+      "sub_branch": "นิเวศวิทยา",
+      "concepts": [
+        "ecosystem",
+        "biodiversity",
+        "conservation"
+      ]
+    },
+    {
+      "faculty": "ภูมิอากาศ-สิ่งแวดล้อม",
+      "sub_branch": "การจัดการสิ่งแวดล้อม",
+      "concepts": [
+        "policy",
+        "EIA",
+        "sustainability"
+      ]
+    },
+    {
+      "faculty": "เกษตร-อาหาร",
+      "sub_branch": "การผลิตพืช",
+      "concepts": [
+        "soil",
+        "irrigation",
+        "crop management"
+      ]
+    },
+    {
+      "faculty": "เกษตร-อาหาร",
+      "sub_branch": "การเลี้ยงสัตว์",
+      "concepts": [
+        "nutrition",
+        "breeding",
+        "health"
+      ]
+    },
+    {
+      "faculty": "เกษตร-อาหาร",
+      "sub_branch": "เทคโนโลยีการเกษตร",
+      "concepts": [
+        "precision farming",
+        "sensor",
+        "drone"
+      ]
+    },
+    {
+      "faculty": "เกษตร-อาหาร",
+      "sub_branch": "วิทยาศาสตร์อาหาร",
+      "concepts": [
+        "nutrition",
+        "processing",
+        "safety"
+      ]
+    },
+    {
+      "faculty": "น้ำ-ทรัพยากร",
+      "sub_branch": "อุทกวิทยา",
+      "concepts": [
+        "rainfall",
+        "runoff",
+        "groundwater"
+      ]
+    },
+    {
+      "faculty": "น้ำ-ทรัพยากร",
+      "sub_branch": "การจัดการน้ำ",
+      "concepts": [
+        "reservoir",
+        "irrigation",
+        "flood control"
+      ]
+    },
+    {
+      "faculty": "น้ำ-ทรัพยากร",
+      "sub_branch": "คุณภาพน้ำ",
+      "concepts": [
+        "pollution",
+        "treatment",
+        "monitoring"
+      ]
+    },
+    {
+      "faculty": "น้ำ-ทรัพยากร",
+      "sub_branch": "ทรัพยากรธรรมชาติ",
+      "concepts": [
+        "conservation",
+        "sustainable use",
+        "policy"
+      ]
+    },
+    {
+      "faculty": "พลังงาน-นิวเคลียร์",
+      "sub_branch": "พลังงานหมุนเวียน",
+      "concepts": [
+        "solar",
+        "wind",
+        "hydro"
+      ]
+    },
+    {
+      "faculty": "พลังงาน-นิวเคลียร์",
+      "sub_branch": "ฟิสิกส์นิวเคลียร์",
+      "concepts": [
+        "fission",
+        "fusion",
+        "radioactivity"
+      ]
+    },
+    {
+      "faculty": "พลังงาน-นิวเคลียร์",
+      "sub_branch": "ระบบพลังงาน",
+      "concepts": [
+        "grid",
+        "storage",
+        "efficiency"
+      ]
+    },
+    {
+      "faculty": "พลังงาน-นิวเคลียร์",
+      "sub_branch": "ความปลอดภัยนิวเคลียร์",
+      "concepts": [
+        "reactor safety",
+        "waste",
+        "regulation"
+      ]
+    },
+    {
+      "faculty": "อวกาศ-การสำรวจ",
+      "sub_branch": "กลไกการบินอวกาศ",
+      "concepts": [
+        "orbit",
+        "rocket",
+        "trajectory"
+      ]
+    },
+    {
+      "faculty": "อวกาศ-การสำรวจ",
+      "sub_branch": "เทคโนโลยีอวกาศ",
+      "concepts": [
+        "satellite",
+        "telemetry",
+        "life support"
+      ]
+    },
+    {
+      "faculty": "อวกาศ-การสำรวจ",
+      "sub_branch": "การสำรวจดาวเคราะห์",
+      "concepts": [
+        "rover",
+        "landing",
+        "sample"
+      ]
+    },
+    {
+      "faculty": "อวกาศ-การสำรวจ",
+      "sub_branch": "ดาราศาสตร์อวกาศ",
+      "concepts": [
+        "observation",
+        "instrument",
+        "discovery"
+      ]
+    },
+    {
+      "faculty": "การเอาชีวิตรอด-ความปลอดภัย",
+      "sub_branch": "ปฐมพยาบาล",
+      "concepts": [
+        "CPR",
+        "bleeding",
+        "fracture"
+      ]
+    },
+    {
+      "faculty": "การเอาชีวิตรอด-ความปลอดภัย",
+      "sub_branch": "ความปลอดภัยพื้นฐาน",
+      "concepts": [
+        "fire",
+        "electrical",
+        "chemical"
+      ]
+    },
+    {
+      "faculty": "การเอาชีวิตรอด-ความปลอดภัย",
+      "sub_branch": "การเตรียมพร้อมภัยพิบัติ",
+      "concepts": [
+        "earthquake",
+        "flood",
+        "evacuation"
+      ]
+    },
+    {
+      "faculty": "การเอาชีวิตรอด-ความปลอดภัย",
+      "sub_branch": "การอยู่รอดในธรรมชาติ",
+      "concepts": [
+        "shelter",
+        "water",
+        "navigation"
+      ]
+    }
+  ],
+  "t": 1794975566
+}
