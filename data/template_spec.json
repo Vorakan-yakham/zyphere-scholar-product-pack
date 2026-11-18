@@ -1,0 +1,21 @@
+{
+  "name": "Zyphere Elite: Google AI Studio + พรีเมียมเรียบหรู",
+  "palette": {
+    "bg": "#0B0F17",
+    "ink": "#F3F4F6",
+    "accent": "#38BDF8",
+    "surface": "#131C2E",
+    "muted": "#94A3B8"
+  },
+  "font_head": "Inter Display",
+  "font_body": "Inter",
+  "spacing": "8pt grid system",
+  "layout": "Asymmetric Bento Grid",
+  "components": [
+    "Glassmorphism Card",
+    "Subtle Glow Button",
+    "Minimalist Data Table",
+    "AI Prompt Playground",
+    "Metric Stat Pill"
+  ]
+}
