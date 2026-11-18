@@ -1,14 +1,14 @@
 # การพัฒนาตนเองของทุกแผนก Zyphere
 
-2026-11-18 11:59
+2026-11-18 12:01
 
 ทุกแผนกวัดผลก่อน/หลังด้วยสัญญาณจริง — ไม่เพิ่มตัวเลขเปล่า
 
 ## นักวิเคราะห์ระบบ
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -17,8 +17,8 @@
 ## ฐานข้อมูล
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -27,8 +27,8 @@
 ## โปรแกรมเมอร์
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -37,8 +37,8 @@
 ## ฝ่ายวิชาการ
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -47,8 +47,8 @@
 ## ฝ่ายภาษา
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -57,8 +57,8 @@
 ## ฝ่ายออกแบบผลิตภัณฑ์
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -67,8 +67,8 @@
 ## ฝ่ายผลิตหนังสือ
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -77,8 +77,8 @@
 ## ฝ่ายการตลาด
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -87,8 +87,8 @@
 ## ฝ่ายทดสอบ
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -97,8 +97,8 @@
 ## ฝ่ายปฏิบัติการ
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
@@ -107,8 +107,8 @@
 ## ฝ่ายความปลอดภัย
 
 - ตัวชี้วัด: system_health
-- ก่อน: analyst 15/16 · บทเรียน 0
-- หลัง: analyst 15/16
+- ก่อน: analyst 16/16 · บทเรียน 0
+- หลัง: analyst 16/16
 - เรื่องที่ study: ตรวจสอบสถาปัตยกรรมและ fail-closed
 - การกระทำจริง: รัน analyst แล้วแก้ check ที่ตก
 - แหล่ง: systems_analyst.py
