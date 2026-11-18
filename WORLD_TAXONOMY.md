@@ -3,8 +3,8 @@
 แหล่งที่มา: Wikipedia - Outline of academic disciplines 
 (https://en.wikipedia.org/wiki/List_of_academic_disciplines)
 
-คณะของเรา: 46 · หมวดวิชาจาก Wikipedia ที่ใช้: 44 
-รวมสาขาย่อยจากทั่วโลก: 3656 รายการ
+คณะของเรา: 46 · หมวดวิชาจาก Wikipedia ที่ใช้: 46 
+รวมสาขาย่อยจากทั่วโลก: 4225 รายการ
 
 โครงสร้าง 3 ระดับ: คณะ → สาขาย่อยของเรา → สาขาวิชาที่มีจริงในระดับโลก 
 
@@ -149,64 +149,140 @@
 ## คณิตศาสตร์บริสุทธิ์
 
 - สาขาย่อยของเรา: 4
-- หมวดวิชาโลกที่เกี่ยวข้อง: 
-- สาขาวิชาจริงทั่วโลก (0):
+- หมวดวิชาโลกที่เกี่ยวข้อง: Pure mathematics
+- สาขาวิชาจริงทั่วโลก (67):
+  - Mathematical logic and Foundations of mathematics
+  - Intuitionistic logic
+  - Modal logic
+  - Model theory
+  - Proof theory
+  - Recursion theory
+  - Set theory
+  - Arithmetic
+  - Algebra
+  - Associative algebra
+  - Category theory
+  - Topos theory
+  - Differential algebra
+  - Field theory
+  - Group theory
+  - Group representation
+  - Homological algebra
+  - K-theory
+  - Lattice theory
+  - Lie algebra
+  - Linear algebra
+  - Multilinear algebra
+  - Non-associative algebra
+  - Representation theory
+  - Ring theory
+  - Commutative algebra
+  - Noncommutative algebra
+  - Universal algebra
+  - Analysis
+  - Complex analysis
+  - Functional analysis
+  - Operator theory
+  - Harmonic analysis
+  - Fourier analysis
+  - Non-standard analysis
+  - Ordinary differential equations
+  - p-adic analysis
+  - Partial differential equations
+  - Real analysis
+  - Calculus
 
 ## คณิตศาสตร์ประยุกต์
 
 - สาขาย่อยของเรา: 4
-- หมวดวิชาโลกที่เกี่ยวข้อง: Statistics
-- สาขาวิชาจริงทั่วโลก (26):
-  - Mathematical statistics
-  - Econometrics
+- หมวดวิชาโลกที่เกี่ยวข้อง: Applied mathematics, Statistics
+- สาขาวิชาจริงทั่วโลก (63):
+  - Approximation theory
+  - Combinatorics
+  - Coding theory
+  - Dynamical systems
+  - Chaos theory
+  - Fractal geometry
+  - Game theory
+  - Graph theory
+  - Information theory
+  - Mathematical physics
+  - Quantum field theory
+  - Quantum gravity
+  - String theory
+  - Quantum mechanics
+  - Statistical mechanics
+  - Numerical analysis
+  - Operations research
+  - Assignment problem
+  - Decision analysis
+  - Dynamic programming
+  - Inventory theory
+  - Linear programming
+  - Mathematical optimization
+  - Optimal maintenance
+  - Real options analysis
+  - Scheduling
+  - Stochastic processes
+  - Systems analysis
+  - Statistics
   - Actuarial science
   - Demography
-  - Computational statistics
-  - Data mining
-  - Regression
-  - Simulation
-  - Bootstrap
-  - Design of experiments
-  - Block design and Analysis of variance
-  - Response surface methodology
-  - Sample Survey
-  - Sampling theory
-  - Statistical modelling
-  - Biostatistics
-  - Epidemiology
-  - Multivariate analysis
-  - Structural equation model
-  - Time series
-  - Reliability theory
-  - Quality control
-  - Statistical theory
-  - Decision theory
-  - Probability
-  - Survey methodology
+  - Econometrics
+  - Mathematical statistics
+  - Data visualization
+  - Computational mathematics
+  - Theory of computation
+  - Computational complexity theory
+  - Cryptography
+  - Steganography
+  - Mathematical game
 
 ## ตรรกะและทฤษฎีข้อมูล
 
 - สาขาย่อยของเรา: 4
-- หมวดวิชาโลกที่เกี่ยวข้อง: Logic
-- สาขาวิชาจริงทั่วโลก (18):
-  - Mathematical logic
-  - Set theory
-  - Proof theory
-  - Model theory
-  - Recursion theory
-  - Modal logic
-  - Intuitionistic logic
-  - Philosophical logic
-  - Logical reasoning
-  - Deontic logic
-  - Doxastic logic
+- หมวดวิชาโลกที่เกี่ยวข้อง: Logic, Computer science
+- สาขาวิชาจริงทั่วโลก (117):
+  - Also a branch of electrical engineering
   - Logic in computer science
-  - Programming language semantics
   - Formal methods
-  - Type theory
   - Logic programming
   - Multi-valued logic
   - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
+  - Robotics
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
 
 ## พันธุกรรม-ชีวโมเลกุล
 
@@ -349,8 +425,48 @@
 ## สมอง-ประสาทวิทยา
 
 - สาขาย่อยของเรา: 4
-- หมวดวิชาโลกที่เกี่ยวข้อง: 
-- สาขาวิชาจริงทั่วโลก (0):
+- หมวดวิชาโลกที่เกี่ยวข้อง: Biology, Medicine and health
+- สาขาวิชาจริงทั่วโลก (239):
+  - Aerobiology
+  - Anatomy
+  - Comparative anatomy
+  - Human anatomy
+  - Biochemistry
+  - Bioinformatics
+  - Biophysics
+  - Biotechnology
+  - Botany
+  - Ethnobotany
+  - Phycology
+  - Cell biology
+  - Chemical biology
+  - Chronobiology
+  - Cognitive biology
+  - Computational biology
+  - Conservation biology
+  - Fisheries management
+  - Wildlife management
+  - Wildlife observation
+  - Cryobiology
+  - Developmental biology
+  - Embryology
+  - Gerontology
+  - Teratology
+  - Ecology
+  - Agroecology
+  - Ethnoecology
+  - Human ecology
+  - Landscape ecology
+  - Recreation ecology
+  - Endocrinology
+  - Epigenetics
+  - Ethnobiology
+  - Anthrozoology
+  - Evolutionary biology
+  - Evolution
+  - Systematics
+  - Taxonomy
+  - Forensic biology
 
 ## สรีระและเภสัช
 
@@ -815,26 +931,48 @@
 ## วิศวกรรมไฟฟ้า-อิเล็กทรอนิกส์
 
 - สาขาย่อยของเรา: 4
-- หมวดวิชาโลกที่เกี่ยวข้อง: Electrical engineering
-- สาขาวิชาจริงทั่วโลก (18):
-  - Applied physics
-  - Computer engineering
-  - Computer science
-  - Control systems engineering
-  - Control theory
-  - Electronic engineering
-  - Electronics
-  - Instrumentation engineering
-  - Engineering physics
-  - Photonics
-  - Information theory
-  - Mechatronics
-  - Power engineering
-  - Quantum computing
+- หมวดวิชาโลกที่เกี่ยวข้อง: Computer science, Electrical engineering
+- สาขาวิชาจริงทั่วโลก (121):
+  - Also a branch of electrical engineering
+  - Logic in computer science
+  - Formal methods
+  - Logic programming
+  - Multi-valued logic
+  - Fuzzy logic
+  - Programming language semantics
+  - Type theory
+  - Operating systems
+  - Algorithms
+  - Computational geometry
+  - Distributed algorithms
+  - Parallel algorithms
+  - Randomized algorithms
+  - Artificial intelligence
+  - Cognitive science
+  - Automated reasoning
+  - Computer vision
+  - Machine learning
+  - Artificial neural networks
+  - Support vector machine
+  - Natural language processing
+  - Expert systems
   - Robotics
-  - Microbotics
-  - Semiconductors
-  - Telecommunications engineering
+  - Database
+  - Data science
+  - Data structures
+  - Computer architecture
+  - Computer graphics
+  - Image processing
+  - Scientific visualization
+  - Computer communications
+  - Cloud computing
+  - Information theory
+  - Internet, World Wide Web
+  - Ubiquitous computing
+  - Wireless computing
+  - Computer security and reliability
+  - Cryptanalysis
+  - Cryptography
 
 ## วิศวกรรมเครื่องกล
 
@@ -878,8 +1016,32 @@
 ## วิศวกรรมโยธา-โครงสร้าง
 
 - สาขาย่อยของเรา: 4
-- หมวดวิชาโลกที่เกี่ยวข้อง: Civil engineering
-- สาขาวิชาจริงทั่วโลก (17):
+- หมวดวิชาโลกที่เกี่ยวข้อง: Architecture and design, Civil engineering
+- สาขาวิชาจริงทั่วโลก (41):
+  - Architecture
+  - Interior architecture
+  - Landscape architecture
+  - Architectural analytics
+  - Historic preservation
+  - Interior design
+  - Landscape design
+  - Urban planning
+  - Visual communication
+  - Graphic design
+  - Type design
+  - Technical drawing
+  - Industrial design
+  - Ergonomics
+  - Toy and amusement design
+  - User experience design
+  - Interaction design
+  - Information architecture
+  - User interface design
+  - User experience evaluation
+  - Decorative arts
+  - Fashion design
+  - Textile design
+  - Food design
   - Coastal engineering
   - Earthquake engineering
   - Ecological engineering
@@ -896,7 +1058,6 @@
   - Surveying
   - Agricultural engineering
   - Construction
-  - Infrastructure
 
 ## วิศวกรรมเคมี-วัสดุ
 
