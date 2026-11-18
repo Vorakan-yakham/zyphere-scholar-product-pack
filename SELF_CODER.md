@@ -76,3 +76,9 @@ error: Please commit or stash them.
 ## OK photo_enhancement.py 06:10
 
 - เหตุผล: pushed: local-brain
+
+## SKIP photo_enhancement.py 06:12
+
+- เหตุผล: push failed, reverted: .
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make 
