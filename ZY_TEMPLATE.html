@@ -1,0 +1,38 @@
+<!doctype html><html lang="th"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Zyphere Elite</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0B0F17;--ink:#F3F4F6;--acc:#38BDF8;--sf:#131C2E;--mut:#94A3B8;--line:#e8eaf1}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased}
+nav{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.86);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.nav{max-width:1160px;margin:auto;padding:16px 24px;display:flex;align-items:center;justify-content:space-between}
+.logo{display:flex;align-items:center;gap:10px;font-family:'Inter Display';font-weight:700;font-size:19px}
+.mark{width:32px;height:32px;border-radius:10px;background:var(--acc);color:#fff;display:grid;place-items:center}
+.hero{max-width:1160px;margin:28px auto 0;padding:58px 48px;background:var(--sf);border:1px solid var(--line);border-radius:26px;position:relative;overflow:hidden}
+.hero:before{content:"";position:absolute;right:-80px;top:-80px;width:300px;height:300px;border:1px solid var(--line);border-radius:50%}
+.hero h1{margin:0;font-family:'Inter Display';font-size:38px;letter-spacing:-1px;max-width:720px}
+.hero p{margin:14px 0 0;color:var(--mut);line-height:1.9;max-width:700px}
+.stats{display:flex;gap:10px;margin-top:26px;flex-wrap:wrap}
+.stats span{border:1px solid var(--line);border-radius:99px;padding:7px 14px;font-size:12px;color:var(--acc)}
+.sec{max-width:1160px;margin:auto;padding:30px 24px 70px}
+.sec h2{font-family:'Inter Display';font-size:20px;margin:0 0 18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.card{background:var(--sf);border:1px solid var(--line);border-radius:18px;padding:20px;transition:.18s}
+.card:hover{transform:translateY(-3px);box-shadow:0 16px 36px rgba(17,24,39,.08);border-color:#dbe2ff}
+.tag{font:600 11px Inter;letter-spacing:1px;color:var(--acc)}
+.card h3{font-size:17px;margin:10px 0 8px} .card p{color:var(--mut);font-size:13px;line-height:1.7;min-height:44px}
+.row{display:flex;justify-content:space-between;align-items:center;margin-top:14px;padding-top:14px;border-top:1px solid var(--line)}
+.price{font:700 18px Inter;color:var(--acc)}
+button{border:0;background:var(--acc);color:#fff;border-radius:10px;padding:9px 15px;font-weight:600;cursor:pointer}
+footer{text-align:center;color:var(--mut);font-size:12px;padding:30px 16px 46px;border-top:1px solid var(--line)}
+@media(max-width:640px){.hero{padding:32px 22px}.hero h1{font-size:27px}}
+</style></head><body>
+<nav><div class="nav"><div class="logo"><span class="mark">✦</span> Zyphere <span style="color:var(--mut);font-weight:500">Studio</span></div>
+<span class="tag">INTELLECTUAL ECOSYSTEM</span></div></nav>
+<div class="hero"><h1>Zyphere Elite</h1><p>Zyphere Elite: ผสานความล้ำลึกแบบ Google AI Studio เข้ากับความพรีเมียมเรียบหรู — ระบบที่เรียนรู้ สร้างผลงาน และพัฒนาตนเองอย่างต่อเนื่อง</p>
+<div class="stats"><span>46 คณะวิชา</span><span>11 แผนกเรียนรู้</span><span>5 Engines</span><span>อัพเดทตัวเองได้</span></div></div>
+<section class="sec"><h2>ภาพรวมระบบ</h2><div class="grid"><article class="card"><span class="tag">KNOWLEDGE</span><h3>คลังความรู้</h3><p>46 คณะ · 184 สาขา · 4,225 สาขาโลก</p><div class="row"><span class="price">46</span><button>เปิด</button></div></article><article class="card"><span class="tag">LEARNING</span><h3>การเรียนรู้</h3><p>11 แผนก ระดับ doctor + ข้ามสาขา</p><div class="row"><span class="price">11</span><button>เปิด</button></div></article><article class="card"><span class="tag">RESEARCH</span><h3>งานวิจัย</h3><p>โปรเจกต์จริงที่ตรวจสอบได้</p><div class="row"><span class="price">1</span><button>เปิด</button></div></article><article class="card"><span class="tag">CREATIVE</span><h3>สตูดิโอสร้างสรรค์</h3><p>ภาพ · เพลง · วิดีโอจริง</p><div class="row"><span class="price">3</span><button>เปิด</button></div></article></div></section>
+<footer>8pt grid system · Asymmetric Bento Grid · ออกแบบโดย Zyphere เอง</footer>
+</div></body></html>
