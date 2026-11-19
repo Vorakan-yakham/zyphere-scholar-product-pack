@@ -1,8 +1,8 @@
 {
   "ok": true,
   "before": 316.12,
-  "after": 396.06,
-  "improvement_pct": 25.3,
+  "after": 358.92,
+  "improvement_pct": 13.5,
   "file": null,
   "credit": {
     "source": "in-house algorithm (own_image_lab)",
