@@ -9,10 +9,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/01_ฟิสิกส์ควอนตัม/content.md",
     "file": "books/01_ฟิสิกส์ควอนตัม/content.md",
     "words": 4105,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053251
+    "t": 1795081333
   },
   {
     "id": "bk_02_ฟสกสคลาสสก",
@@ -24,10 +24,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/02_ฟิสิกส์คลาสสิก/content.md",
     "file": "books/02_ฟิสิกส์คลาสสิก/content.md",
     "words": 4105,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081333
   },
   {
     "id": "bk_03_ดาราศาสตรจกรว",
@@ -39,10 +39,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/03_ดาราศาสตร์-จักรวาล/content.md",
     "file": "books/03_ดาราศาสตร์-จักรวาล/content.md",
     "words": 4179,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081333
   },
   {
     "id": "bk_07_พนธกรรมชวโมเล",
@@ -54,10 +54,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/07_พันธุกรรม-ชีวโมเลกุล/content.md",
     "file": "books/07_พันธุกรรม-ชีวโมเลกุล/content.md",
     "words": 3939,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_08_เซลลและเนอเยอ",
@@ -69,10 +69,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/08_เซลล์และเนื้อเยื่อ/content.md",
     "file": "books/08_เซลล์และเนื้อเยื่อ/content.md",
     "words": 3921,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_09_ภมคมกนโรค",
@@ -84,10 +84,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/09_ภูมิคุ้มกัน-โรค/content.md",
     "file": "books/09_ภูมิคุ้มกัน-โรค/content.md",
     "words": 3955,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_11_สรระและเภสช",
@@ -99,10 +99,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/11_สรีระและเภสัช/content.md",
     "file": "books/11_สรีระและเภสัช/content.md",
     "words": 4059,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_12_การแพทยคลนก",
@@ -114,10 +114,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/12_การแพทย์คลินิก/content.md",
     "file": "books/12_การแพทย์คลินิก/content.md",
     "words": 4231,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_13_จตวทยา",
@@ -129,10 +129,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/13_จิตวิทยา/content.md",
     "file": "books/13_จิตวิทยา/content.md",
     "words": 4164,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_14_ปญญาประดษฐ",
@@ -144,10 +144,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/14_ปัญญาประดิษฐ์/content.md",
     "file": "books/14_ปัญญาประดิษฐ์/content.md",
     "words": 4335,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_15_อลกอรทมโครงสร",
@@ -159,10 +159,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/15_อัลกอริทึม-โครงสร้างข้อมูล/content.md",
     "file": "books/15_อัลกอริทึม-โครงสร้างข้อมูล/content.md",
     "words": 4399,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_16_วศวกรรมซอฟตแว",
@@ -174,10 +174,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/16_วิศวกรรมซอฟต์แวร์/content.md",
     "file": "books/16_วิศวกรรมซอฟต์แวร์/content.md",
     "words": 4387,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_17_ความมนคงไซเบอ",
@@ -189,10 +189,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/17_ความมั่นคงไซเบอร์/content.md",
     "file": "books/17_ความมั่นคงไซเบอร์/content.md",
     "words": 4388,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_18_ฐานขอมลขอมลขน",
@@ -204,10 +204,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/18_ฐานข้อมูล-ข้อมูลขนาดใหญ่/content.md",
     "file": "books/18_ฐานข้อมูล-ข้อมูลขนาดใหญ่/content.md",
     "words": 4369,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053252
+    "t": 1795081334
   },
   {
     "id": "bk_19_คอมพวเตอรวทศน",
@@ -219,10 +219,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/19_คอมพิวเตอร์วิทัศน์-เสียง/content.md",
     "file": "books/19_คอมพิวเตอร์วิทัศน์-เสียง/content.md",
     "words": 4368,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_20_หนยนตระบบอตโน",
@@ -234,10 +234,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/20_หุ่นยนต์-ระบบอัตโนมัติ/content.md",
     "file": "books/20_หุ่นยนต์-ระบบอัตโนมัติ/content.md",
     "words": 4334,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_24_วศวกรรมเคมวสด",
@@ -249,10 +249,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/24_วิศวกรรมเคมี-วัสดุ/content.md",
     "file": "books/24_วิศวกรรมเคมี-วัสดุ/content.md",
     "words": 4004,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_25_สถาปตยกรรมการ",
@@ -264,10 +264,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/25_สถาปัตยกรรม-การออกแบบ/content.md",
     "file": "books/25_สถาปัตยกรรม-การออกแบบ/content.md",
     "words": 3052,
-    "chapters": 4,
+    "chapters": 52,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_26_เศรษฐกจมหภาคก",
@@ -279,10 +279,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/26_เศรษฐกิจมหภาค-การเงิน/content.md",
     "file": "books/26_เศรษฐกิจมหภาค-การเงิน/content.md",
     "words": 3676,
-    "chapters": 4,
+    "chapters": 61,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_27_การเงนการลงทน",
@@ -294,10 +294,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/27_การเงิน-การลงทุน/content.md",
     "file": "books/27_การเงิน-การลงทุน/content.md",
     "words": 3600,
-    "chapters": 4,
+    "chapters": 61,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_29_การตลาดธรกจ",
@@ -309,10 +309,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/29_การตลาด-ธุรกิจ/content.md",
     "file": "books/29_การตลาด-ธุรกิจ/content.md",
     "words": 4074,
-    "chapters": 4,
+    "chapters": 69,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_30_การจดการภาวะผ",
@@ -324,10 +324,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/30_การจัดการ-ภาวะผู้นำ/content.md",
     "file": "books/30_การจัดการ-ภาวะผู้นำ/content.md",
     "words": 4245,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_32_จรยธรรมปรชญา",
@@ -339,10 +339,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/32_จริยธรรม-ปรัชญา/content.md",
     "file": "books/32_จริยธรรม-ปรัชญา/content.md",
     "words": 4359,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_33_ประวตศาสตรอาร",
@@ -354,10 +354,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/33_ประวัติศาสตร์-อารยธรรม/content.md",
     "file": "books/33_ประวัติศาสตร์-อารยธรรม/content.md",
     "words": 4395,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_34_สงคมวทยามานษย",
@@ -369,10 +369,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/34_สังคมวิทยา-มานุษยวิทยา/content.md",
     "file": "books/34_สังคมวิทยา-มานุษยวิทยา/content.md",
     "words": 4083,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_35_รฐศาสตรความสม",
@@ -384,10 +384,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/35_รัฐศาสตร์-ความสัมพันธ์ระหว่างประเทศ/content.md",
     "file": "books/35_รัฐศาสตร์-ความสัมพันธ์ระหว่างประเทศ/content.md",
     "words": 4257,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053253
+    "t": 1795081334
   },
   {
     "id": "bk_36_ภาษาศาสตรการแ",
@@ -399,10 +399,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/36_ภาษาศาสตร์-การแปล/content.md",
     "file": "books/36_ภาษาศาสตร์-การแปล/content.md",
     "words": 4107,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053254
+    "t": 1795081334
   },
   {
     "id": "bk_40_ภาพยนตรสอกราฟ",
@@ -414,10 +414,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/40_ภาพยนตร์-สื่อ-กราฟฟิก/content.md",
     "file": "books/40_ภาพยนตร์-สื่อ-กราฟฟิก/content.md",
     "words": 4053,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053254
+    "t": 1795081334
   },
   {
     "id": "bk_41_ภมอากาศสงแวดล",
@@ -429,10 +429,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/41_ภูมิอากาศ-สิ่งแวดล้อม/content.md",
     "file": "books/41_ภูมิอากาศ-สิ่งแวดล้อม/content.md",
     "words": 4079,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053254
+    "t": 1795081334
   },
   {
     "id": "bk_45_อวกาศการสำรวจ",
@@ -444,10 +444,10 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/45_อวกาศ-การสำรวจ/content.md",
     "file": "books/45_อวกาศ-การสำรวจ/content.md",
     "words": 4125,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053254
+    "t": 1795081335
   },
   {
     "id": "bk_46_การเอาชวตรอดค",
@@ -459,9 +459,9 @@
     "asset_url": "https://raw.githubusercontent.com/Vorakan-yakham/zyphere-scholar-product-pack/main/books/46_การเอาชีวิตรอด-ความปลอดภัย/content.md",
     "file": "books/46_การเอาชีวิตรอด-ความปลอดภัย/content.md",
     "words": 3921,
-    "chapters": 4,
+    "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795053254
+    "t": 1795081335
   }
 ]
