@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "before": 316.11,
+  "after": 360.05,
+  "improvement_pct": 13.9,
+  "file": null,
+  "credit": {
+    "source": "in-house algorithm (own_image_lab)",
+    "license": "Zyphere own",
+    "query": "สรีระและเภสัช"
+  }
+}
