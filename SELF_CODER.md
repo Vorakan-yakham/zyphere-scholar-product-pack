@@ -2,37 +2,7 @@
 
 ทุก patch ผ่าน guard + test ก่อน commit
 
-## SKIP dev_brain.py 01:10
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP quality_ops.py 01:16
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP research.py 01:16
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP music_studio.py 01:16
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP music_studio.py 01:22
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP autonomous_council.py 01:22
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP photo_enhancement.py 01:38
+## SKIP own_image_lab.py 02:15
 
 - เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
     raise URLE
