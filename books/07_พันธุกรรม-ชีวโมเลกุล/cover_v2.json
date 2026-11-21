@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "before": 316.14,
+  "after": 361.45,
+  "improvement_pct": 14.3,
+  "file": null,
+  "credit": {
+    "source": "in-house algorithm (own_image_lab)",
+    "license": "Zyphere own",
+    "query": "พันธุกรรม-ชีวโมเลกุล"
+  }
+}
