@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "before": 316.1,
+  "after": 364.89,
+  "improvement_pct": 15.4,
+  "file": null,
+  "credit": {
+    "source": "in-house algorithm (own_image_lab)",
+    "license": "Zyphere own",
+    "query": "รัฐศาสตร์-ความสัมพันธ์ระหว่างประเทศ"
+  }
+}
