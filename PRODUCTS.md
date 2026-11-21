@@ -12,7 +12,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_02_ฟสกสคลาสสก",
@@ -27,7 +27,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_03_ดาราศาสตรจกรว",
@@ -42,7 +42,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_07_พนธกรรมชวโมเล",
@@ -57,7 +57,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_08_เซลลและเนอเยอ",
@@ -72,7 +72,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_09_ภมคมกนโรค",
@@ -87,7 +87,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_11_สรระและเภสช",
@@ -102,7 +102,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_12_การแพทยคลนก",
@@ -117,7 +117,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_13_จตวทยา",
@@ -132,7 +132,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_14_ปญญาประดษฐ",
@@ -147,7 +147,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_15_อลกอรทมโครงสร",
@@ -162,7 +162,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_16_วศวกรรมซอฟตแว",
@@ -177,7 +177,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_17_ความมนคงไซเบอ",
@@ -192,7 +192,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_18_ฐานขอมลขอมลขน",
@@ -207,7 +207,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_19_คอมพวเตอรวทศน",
@@ -222,7 +222,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_20_หนยนตระบบอตโน",
@@ -237,7 +237,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_24_วศวกรรมเคมวสด",
@@ -252,7 +252,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_25_สถาปตยกรรมการ",
@@ -267,7 +267,7 @@
     "chapters": 52,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_26_เศรษฐกจมหภาคก",
@@ -282,7 +282,7 @@
     "chapters": 61,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_27_การเงนการลงทน",
@@ -297,7 +297,7 @@
     "chapters": 61,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_29_การตลาดธรกจ",
@@ -312,7 +312,7 @@
     "chapters": 69,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_30_การจดการภาวะผ",
@@ -327,7 +327,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_32_จรยธรรมปรชญา",
@@ -342,7 +342,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_33_ประวตศาสตรอาร",
@@ -357,7 +357,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_34_สงคมวทยามานษย",
@@ -372,7 +372,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_35_รฐศาสตรความสม",
@@ -387,7 +387,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290393
   },
   {
     "id": "bk_36_ภาษาศาสตรการแ",
@@ -402,7 +402,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290394
   },
   {
     "id": "bk_40_ภาพยนตรสอกราฟ",
@@ -417,7 +417,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290394
   },
   {
     "id": "bk_41_ภมอากาศสงแวดล",
@@ -432,7 +432,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290394
   },
   {
     "id": "bk_45_อวกาศการสำรวจ",
@@ -447,7 +447,7 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290394
   },
   {
     "id": "bk_46_การเอาชวตรอดค",
@@ -462,6 +462,6 @@
     "chapters": 70,
     "status": "review",
     "gate_ok": false,
-    "t": 1795286765
+    "t": 1795290394
   }
 ]
