@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "before": 316.19,
+  "after": 361.65,
+  "improvement_pct": 14.4,
+  "file": null,
+  "credit": {
+    "source": "in-house algorithm (own_image_lab)",
+    "license": "Zyphere own",
+    "query": "ภูมิอากาศ-สิ่งแวดล้อม"
+  }
+}
