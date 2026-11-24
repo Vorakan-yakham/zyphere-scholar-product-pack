@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "before": 316.12,
+  "after": 360.33,
+  "improvement_pct": 14.0,
+  "file": null,
+  "credit": {
+    "source": "in-house algorithm (own_image_lab)",
+    "license": "Zyphere own",
+    "query": "การแพทย์คลินิก"
+  }
+}
