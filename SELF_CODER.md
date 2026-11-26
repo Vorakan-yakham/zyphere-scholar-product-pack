@@ -7,32 +7,7 @@
 - เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
     raise URLE
 
-## SKIP quality_ops.py 16:27
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP research.py 16:28
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP music_studio.py 16:28
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP music_studio.py 16:33
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP autonomous_council.py 16:34
-
-- เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
-    raise URLE
-
-## SKIP photo_enhancement.py 16:50
+## SKIP division_heads.py 17:33
 
 - เหตุผล: verify failed, reverted:  File "/opt/render/project/python/Python-3.14.10/lib/python3.14/urllib/request.py", line 1336, in do_open
     raise URLE
