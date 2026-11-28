@@ -1098,6 +1098,163 @@
           "topic": "การจัดลำดับความรู้แบบขั้นบันได"
         }
       ]
+    },
+    {
+      "t": 1795847070,
+      "rows": [
+        {
+          "dept": "ฝ่ายวิชาการ",
+          "metric": "knowledge_depth",
+          "score": 70,
+          "target": 85,
+          "passed": false,
+          "learning_topics": [
+            "การแยกแนวคิดหลักออกจากรายละเอียด",
+            "การจัดลำดับความรู้แบบขั้นบันได",
+            "การเชื่อมสาขาวิชาข้ามคณะ",
+            "การอ้างอิงแหล่งที่ตรวจสอบได้"
+          ],
+          "action": "เรียนรู้หัวข้อต่อไปนี้แล้ววัดใหม่"
+        },
+        {
+          "dept": "ฝ่ายภาษา",
+          "metric": "language_quality",
+          "score": 95,
+          "target": 90,
+          "passed": true,
+          "learning_topics": [
+            "กฎแก้คำที่ไม่ทำลายคำถูกต้อง",
+            "เครื่องหมายวรรคตอนภาษาไทย",
+            "การเรียงลำดับคำและประโยค",
+            "การเขียนให้ผู้อ่านอ่านจบ"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        },
+        {
+          "dept": "ฝ่ายออกแบบผลิตภัณฑ์",
+          "metric": "design_quality",
+          "score": 90,
+          "target": 85,
+          "passed": true,
+          "learning_topics": [
+            "Typography hierarchy",
+            "Negative space และ grid",
+            "การออกแบบปกแบบหนังสือ ไม่ใช่โปสเตอร์",
+            "A5 margin และ callout box"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        },
+        {
+          "dept": "ฝ่ายผลิตหนังสือ",
+          "metric": "content_quality",
+          "score": 92,
+          "target": 90,
+          "passed": true,
+          "learning_topics": [
+            "8-12 บทต่อเล่ม",
+            "หนึ่งแนวคิดต่อบท",
+            "แบบฝึกหัดไม่ซ้ำ",
+            "Uniqueness index >= 85%"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        },
+        {
+          "dept": "ฝ่ายการตลาด",
+          "metric": "value_pricing",
+          "score": 88,
+          "target": 85,
+          "passed": true,
+          "learning_topics": [
+            "Value-based pricing",
+            "การอธิบายเหตุผลราคา",
+            "การเขียนโพสต์ที่ไม่กล่าวอ้างเกินจริง",
+            "การวัดผลการคลิกจริง"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        },
+        {
+          "dept": "ฝ่ายทดสอบ",
+          "metric": "test_coverage",
+          "score": 95,
+          "target": 95,
+          "passed": true,
+          "learning_topics": [
+            "Regression test",
+            "ตรวจ endpoint จริง",
+            "ตรวจไฟล์ที่ดาวน์โหลดได้",
+            "ตรวจหา copy-paste"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        },
+        {
+          "dept": "นักวิเคราะห์ระบบ",
+          "metric": "system_health",
+          "score": 99,
+          "target": 95,
+          "passed": true,
+          "learning_topics": [
+            "Import order",
+            "Route ไม่ซ้ำ",
+            "Fail-closed admin",
+            "ไม่มี secret ในโค้ด"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        },
+        {
+          "dept": "ฐานข้อมูล",
+          "metric": "persistence",
+          "score": 95,
+          "target": 95,
+          "passed": true,
+          "learning_topics": [
+            "Remote KV restore",
+            "GitHub durable store",
+            "ทดสอบ restart",
+            "สำรองอัตโนมัติ"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        },
+        {
+          "dept": "โปรแกรมเมอร์",
+          "metric": "build_quality",
+          "score": 95,
+          "target": 95,
+          "passed": true,
+          "learning_topics": [
+            "py_compile",
+            "targeted edit",
+            "deploy สำเร็จ",
+            "ไม่ทำลายของเดิม"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        },
+        {
+          "dept": "ฝ่ายปฏิบัติการ",
+          "metric": "uptime",
+          "score": 95,
+          "target": 95,
+          "passed": true,
+          "learning_topics": [
+            "health 200",
+            "restart เมื่อจำเป็น",
+            "env ครบ",
+            "ตรวจ deploy"
+          ],
+          "action": "รักษามาตรฐานและพัฒนาต่อ"
+        }
+      ],
+      "passed": 9,
+      "total": 10,
+      "learning_tasks": [
+        {
+          "dept": "ฝ่ายวิชาการ",
+          "topic": "การแยกแนวคิดหลักออกจากรายละเอียด"
+        },
+        {
+          "dept": "ฝ่ายวิชาการ",
+          "topic": "การจัดลำดับความรู้แบบขั้นบันได"
+        }
+      ]
     }
   ]
 }
